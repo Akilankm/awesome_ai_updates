@@ -1,7 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-15 13:07 IST  
-**Scope:** High-value verified signals only
+**Collected:** 2026-07-15 14:08 IST  
+**Scope:** High-value verified signals only  
+**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/14-08_IST.md)
 
 ## Must-know developments
 
@@ -27,12 +28,12 @@
 | More coding agents naturally increase throughput | Parallel agents can increase coordination cost and conflict risk, especially when independently operating on shared code | Autonomy must be paired with work partitioning and integration control | [Paper](https://arxiv.org/abs/2607.04697) |
 | Deep-research agents reliably synthesize web evidence | Retrieval access does not guarantee faithful conclusion synthesis, and leakage can inflate benchmark performance | Use controlled evidence environments and claim-level evaluation | [Paper](https://arxiv.org/abs/2606.11337) |
 
-## No verified high-value change in this cycle
+## Latest-cycle decision
 
-| Area | Decision |
-|---|---|
-| Frontier model releases | No primary-source release with sufficient technical detail was verified during this collection window |
-| Python framework releases | No material, citation-complete release was verified during this collection window |
-| Hugging Face trends | No defensible time-series trend was available; popularity snapshots were not treated as trend evidence |
-| GitHub repository trends | No repository was promoted based only on stars or social attention |
-| Policy and safety | No new item met the technical and career-value threshold |
+| Area | Decision | Audit record |
+|---|---|---|
+| Frontier models | No newly verified primary-source release crossed the inclusion threshold | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
+| Research and benchmarks | No new item displaced or materially extended the retained working-memory priorities | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
+| Safety and policy | A secondary report was placed on watch but not promoted without a verified primary government source | [Reuters, 2026-07-14](https://www.reuters.com/technology/us-launch-ai-cybersecurity-coordination-group-white-house-says-2026-07-14/) |
