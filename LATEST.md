@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-15 16:09 IST  
+**Collected:** 2026-07-15 17:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/16-09_IST.md)
+**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/17-09_IST.md)
 
 ## Must-know developments
 
@@ -32,8 +32,8 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No newly verified primary-source release crossed the inclusion threshold; secondary-only reports were rejected | [16:09 cycle](hourly/2026/07/15/16-09_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [16:09 cycle](hourly/2026/07/15/16-09_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [16:09 cycle](hourly/2026/07/15/16-09_IST.md) |
-| Research and benchmarks | No new paper displaced the retained adoption, orchestration, and clean-room evaluation priorities | [16:09 cycle](hourly/2026/07/15/16-09_IST.md) |
-| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [16:09 cycle](hourly/2026/07/15/16-09_IST.md) |
+| Frontier models | No newly verified primary-source release crossed the inclusion threshold; secondary-only reports were rejected | [17:09 cycle](hourly/2026/07/15/17-09_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [17:09 cycle](hourly/2026/07/15/17-09_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [17:09 cycle](hourly/2026/07/15/17-09_IST.md) |
+| Research and benchmarks | A July 6 coding-agent mutation-taxonomy paper was retained only as a weekly watch item; it did not displace the current priorities | [17:09 cycle](hourly/2026/07/15/17-09_IST.md) |
+| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [17:09 cycle](hourly/2026/07/15/17-09_IST.md) |
