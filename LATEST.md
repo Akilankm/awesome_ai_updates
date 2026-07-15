@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 00:09 IST  
+**Collected:** 2026-07-16 01:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Inkling open-weight model release](hourly/2026/07/16/00-09_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/01-08_IST.md)
 
 ## Must-know developments
 
@@ -27,7 +27,7 @@
 
 | Previous assumption | Updated mental model | Consequence | Evidence |
 |---|---|---|---|
-| Frontier-model leadership determines enterprise value | A sufficiently capable model may be more valuable when it is adaptable, governable, portable, and economical on proprietary tasks | Compare adaptation-adjusted value, not only generic benchmark rank | [Axios](https://www.axios.com/2026/07/15/mira-muratis-thinking-machines-open-weight-model-inkling) · [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) |
+| Frontier-model leadership determines enterprise value | A sufficiently capable model may be more valuable when it is adaptable, governable, portable, and economical on proprietary tasks | Compare adaptation-adjusted value, not only generic benchmark rank | [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) · [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) |
 | Total parameters indicate inference cost | Sparse models require separate accounting for total and active parameters, memory footprint, routing overhead, and serving topology | Demand architecture-aware performance evidence before accepting efficiency claims | [WSJ](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) |
 | Giving engineers an AI coding tool creates productivity | Adoption and output depend on visible peer use, retained usage, engineer activity, and organizational rollout design | Measure enablement and sustained behavior as first-class system variables | [Paper](https://arxiv.org/abs/2607.01418) |
 | More coding agents naturally increase throughput | Parallel agents can increase coordination cost and conflict risk, especially when independently operating on shared code | Autonomy must be paired with work partitioning and integration control | [Paper](https://arxiv.org/abs/2607.04697) |
@@ -37,8 +37,9 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | Inkling qualified as a new career-relevant signal with corroborated secondary evidence; primary model artifacts remain to be independently verified | [00:09 cycle](hourly/2026/07/16/00-09_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [00:09 cycle](hourly/2026/07/16/00-09_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes were rejected as insufficient evidence | [00:09 cycle](hourly/2026/07/16/00-09_IST.md) |
-| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [00:09 cycle](hourly/2026/07/16/00-09_IST.md) |
-| Safety, policy, and terminology | “Adaptation-adjusted model value” was added as a useful internal framing; it is analytical language, not yet a cross-company standardized term | [00:09 cycle](hourly/2026/07/16/00-09_IST.md) |
+| Frontier models | No new primary model artifact was independently verified after the retained Inkling release; no additional claims were promoted | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Safety and policy | Prospective U.S. chip and AI export-control action remains a watch item until primary rule text, scope, and dates are published | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
