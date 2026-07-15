@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-16 04:09 IST
+**Last refreshed:** 2026-07-16 05:10 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-16 04:09 IST](hourly/2026/07/16/04-09_IST.md) |
-| Previous hourly record | [2026-07-16 03:08 IST](hourly/2026/07/16/03-08_IST.md) |
+| Current hourly record | [2026-07-16 05:10 IST](hourly/2026/07/16/05-10_IST.md) |
+| Previous hourly record | [2026-07-16 04:09 IST](hourly/2026/07/16/04-09_IST.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -28,4 +28,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-16 04:09 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. Australia’s announced AI and data-centre direction remains a monitor item because no enacted rule text or implementation standard was verified. | [Review record](hourly/2026/07/16/04-09_IST.md) |
+| 2026-07-16 05:10 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. Snapshot-only GitHub/Hugging Face activity and duplicate Inkling coverage were excluded. | [Review record](hourly/2026/07/16/05-10_IST.md) |
