@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 03:08 IST  
+**Collected:** 2026-07-16 04:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/03-08_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/04-09_IST.md)
 
 ## Must-know developments
 
@@ -37,9 +37,9 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No new primary model artifact was verified after the retained Inkling release; no model, licensing, benchmark, or serving conclusion changed | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
-| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
-| Safety and policy | No new primary rule text, formal standard, effective date, or implementation guidance was verified | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
-| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [03:08 cycle](hourly/2026/07/16/03-08_IST.md) |
+| Frontier models | No new primary model artifact was verified after the retained Inkling release; no model, licensing, benchmark, or serving conclusion changed | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
+| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
+| Safety and policy | Australia’s announced AI and data-centre direction remains a monitor item because no enacted rule text, binding standard, or implementation guidance was verified | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [04:09 cycle](hourly/2026/07/16/04-09_IST.md) |
