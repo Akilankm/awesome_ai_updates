@@ -1,17 +1,22 @@
 # Terminology Radar
 
-**Updated:** 2026-07-15 13:07 IST
+**Updated:** 2026-07-16 00:09 IST
 
 | Term | Stage | Technical substance | Momentum basis | Correct use | Misuse risk | Career action | Evidence |
 |---|---|---:|---|---|---:|---|---|
+| Adaptation-adjusted model value | Emerging analytical framing | High | New open-weight model positioning emphasizes customization, deployment control, and task-specific economics over generic benchmark leadership | Use when comparing base-model quality with fine-tuning uplift, governance, portability, and serving cost | Low | Build model scorecards that include adaptation and operations | [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) · [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) |
+| Sparse-model serving economics | Accelerating | High | Large mixture-of-experts releases increasingly report total and active parameter counts separately | Use when discussing memory residency, expert routing, active compute, interconnect, and concurrency | Medium | Learn MoE inference, expert parallelism, quantization, and capacity planning | [WSJ](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) |
+| Synthetic-data provenance | Accelerating | High | Model reporting increasingly identifies generated data and teacher-model use during post-training | Use for lineage, licensing, contamination, and capability-inheritance analysis | Low | Add teacher-model lineage to model-risk and evaluation checklists | [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) |
 | Socio-technical coding-agent adoption | Accelerating | High | Large enterprise rollout evidence connecting usage, peer diffusion, retention, and output | Use when discussing organizational deployment and productivity measurement | Medium | Learn experimentation, adoption analytics, and developer-experience measurement | [Paper](https://arxiv.org/abs/2607.01418) |
 | Merge-aware agent orchestration | Emerging | High | Large GitHub PR analysis quantifying concurrency and conflict patterns | Use for systems coordinating multiple coding agents against shared repositories | Low | Build task-allocation and conflict-risk controls into coding-agent platforms | [Paper](https://arxiv.org/abs/2607.04697) |
 | Clean-room agent evaluation | Accelerating | High | Benchmark evidence that uncontrolled access can inflate scientific-synthesis results | Use where agents browse, retrieve, or may encounter benchmark answers | Low | Learn benchmark isolation, evidence controls, and contamination testing | [Paper](https://arxiv.org/abs/2606.11337) |
 | Claim-level factual precision and recall | Trial | High | Scientific conclusions decomposed into atomic facts for correctness and comprehensiveness scoring | Use for evidence synthesis, research agents, and high-stakes summarization | Low | Add atomic-claim evaluation to RAG and research-agent eval suites | [Paper](https://arxiv.org/abs/2606.11337) |
 
-## Narrative shift
+## Narrative shifts
 
 | Previous framing | Better framing | Why | Evidence |
 |---|---|---|---|
+| Best model means highest generic benchmark score | Best enterprise model means highest adaptation-adjusted value for the target workload | Customization, governance, portability, hosting control, and serving economics can outweigh generic leadership | [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) · [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) |
+| Parameter count as a capability and cost proxy | Architecture-aware accounting of total parameters, active parameters, memory, routing, and throughput | Sparse architectures decouple headline scale from per-token compute | [WSJ](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) |
 | AI coding tools as individual assistants | Coding agents as an organizational production system | Adoption, coordination, review, and integration determine realized value | [Rollout study](https://arxiv.org/abs/2607.01418) · [Concurrency study](https://arxiv.org/abs/2607.04697) |
 | Research-agent quality as answer fluency | Research-agent quality as controlled, claim-level factual synthesis | Fluent conclusions can remain incomplete or incorrect under leakage-controlled evaluation | [SciConBench](https://arxiv.org/abs/2606.11337) |
