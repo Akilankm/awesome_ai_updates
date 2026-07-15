@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-16 02:08 IST
+**Last refreshed:** 2026-07-16 03:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-16 02:08 IST](hourly/2026/07/16/02-08_IST.md) |
-| Previous hourly record | [2026-07-16 01:08 IST](hourly/2026/07/16/01-08_IST.md) |
+| Current hourly record | [2026-07-16 03:08 IST](hourly/2026/07/16/03-08_IST.md) |
+| Previous hourly record | [2026-07-16 02:08 IST](hourly/2026/07/16/02-08_IST.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -28,4 +28,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-16 02:08 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. Additional Inkling reporting was excluded as duplicate secondary evidence because no new primary model artifact changed the retained conclusion. | [Review record](hourly/2026/07/16/02-08_IST.md) |
+| 2026-07-16 03:08 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. No new primary release, framework change, benchmark, policy artifact, or longitudinal trend met the promotion threshold. | [Review record](hourly/2026/07/16/03-08_IST.md) |
