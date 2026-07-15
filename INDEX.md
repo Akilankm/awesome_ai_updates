@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-15 23:09 IST
+**Last refreshed:** 2026-07-16 00:09 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,15 +8,18 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-15 23:09 IST](hourly/2026/07/15/23-09_IST.md) |
-| Previous hourly record | [2026-07-15 22:10 IST](hourly/2026/07/15/22-10_IST.md) |
+| Current hourly record | [2026-07-16 00:09 IST](hourly/2026/07/16/00-09_IST.md) |
+| Previous hourly record | [2026-07-15 23:09 IST](hourly/2026/07/15/23-09_IST.md) |
+| Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
 
 ## Current high-value themes
 
-| Theme | Status | Why it is strategically important | Primary evidence |
+| Theme | Status | Why it is strategically important | Evidence |
 |---|---|---|---|
+| Adaptation-adjusted model value | Emerging | Enterprise value can come from customization, portability, governance, and task-specific economics rather than generic benchmark leadership | [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) · [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) |
+| Sparse-model deployment literacy | Accelerating | Total parameter count does not describe active compute, memory residency, routing overhead, or achievable serving economics | [WSJ](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) |
 | Socio-technical coding-agent adoption | Accelerating | Tool deployment alone does not guarantee retained use or measurable throughput | [Microsoft rollout study](https://arxiv.org/abs/2607.01418) |
 | Merge-aware multi-agent coding | Emerging | Concurrent agents introduce integration and coordination costs | [Agent PR concurrency study](https://arxiv.org/abs/2607.04697) |
 | Clean-room agent evaluation | Accelerating | Prevents benchmark leakage from overstating real-world research-agent quality | [SciConBench](https://arxiv.org/abs/2606.11337) |
@@ -25,4 +28,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-15 23:09 IST | No newly verified development crossed the technical-substance, career-value, significance, recency, and citation-completeness thresholds; stable priorities were retained and two older papers were logged only as background evidence | [Review record](hourly/2026/07/15/23-09_IST.md) |
+| 2026-07-16 00:09 IST | One new model release qualified with corroborated secondary evidence. The repository added model-selection, sparse-inference, synthetic-data-provenance, and meeting-language updates while explicitly retaining the unresolved primary-artifact verification gap. | [Review record](hourly/2026/07/16/00-09_IST.md) |
