@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-15 22:10 IST  
+**Collected:** 2026-07-15 23:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/22-10_IST.md)
+**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/23-09_IST.md)
 
 ## Must-know developments
 
@@ -32,8 +32,8 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No newly verified primary-source release crossed the inclusion threshold; secondary-only reports were rejected | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
-| Research and benchmarks | No newly surfaced paper exceeded the current retained priorities on evidence strength, architectural consequence, and career value | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
-| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
+| Frontier models | No newly verified primary-source release crossed the inclusion threshold; official-channel searches produced no qualifying artifact | [23:09 cycle](hourly/2026/07/15/23-09_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [23:09 cycle](hourly/2026/07/15/23-09_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes were rejected as insufficient evidence | [23:09 cycle](hourly/2026/07/15/23-09_IST.md) |
+| Research and benchmarks | Two relevant June papers were reviewed but excluded from the hourly headline because they were not new and did not displace stronger retained priorities | [23:09 cycle](hourly/2026/07/15/23-09_IST.md) |
+| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [23:09 cycle](hourly/2026/07/15/23-09_IST.md) |
