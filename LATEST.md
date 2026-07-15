@@ -1,13 +1,13 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-15 21:07 IST  
+**Collected:** 2026-07-15 22:10 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/21-07_IST.md)
+**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/22-10_IST.md)
 
 ## Must-know developments
 
 | Priority | Development | Event / publication time | Why it matters | Career value | Significance | Evidence |
-|---:|---|---|---|---:|---:|---|
+|---:|---|---|---|---|---:|---:|---|
 | 1 | Large-scale Microsoft study reports adopters of CLI coding agents merged about 24% more pull requests than the estimated counterfactual during a four-month rollout | Published 2026-07-01 | Enterprise adoption depends on peer diffusion, retention, workflow fit, and measurement—not tool access alone | 9.2/10 | 9.0/10 | **A** · [Paper](https://arxiv.org/abs/2607.01418) |
 | 2 | Analysis of 33,596 agent-authored PRs finds concurrent agent work is common and cross-agent pairs show materially higher textual merge-conflict rates than same-agent pairs | Published 2026-07-06 | Multi-agent coding requires coordination, ownership boundaries, and merge-aware orchestration | 9.1/10 | 8.9/10 | **A** · [Paper](https://arxiv.org/abs/2607.04697) |
 | 3 | SciConBench reports low factual synthesis quality under clean-room web evaluation; the best evaluated agent reached factual F1 0.337 | Published 2026-06-09 | Unconstrained web benchmarks can overstate research-agent capability through leakage; controlled evidence access is essential | 9.0/10 | 8.8/10 | **A** · [Paper](https://arxiv.org/abs/2606.11337) |
@@ -32,8 +32,8 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No newly verified primary-source release crossed the inclusion threshold; secondary-only reports were rejected | [21:07 cycle](hourly/2026/07/15/21-07_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [21:07 cycle](hourly/2026/07/15/21-07_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [21:07 cycle](hourly/2026/07/15/21-07_IST.md) |
-| Research and benchmarks | No newly surfaced paper exceeded the current retained priorities on evidence strength, architectural consequence, and career value | [21:07 cycle](hourly/2026/07/15/21-07_IST.md) |
-| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [21:07 cycle](hourly/2026/07/15/21-07_IST.md) |
+| Frontier models | No newly verified primary-source release crossed the inclusion threshold; secondary-only reports were rejected | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
+| Research and benchmarks | No newly surfaced paper exceeded the current retained priorities on evidence strength, architectural consequence, and career value | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
+| Safety, policy, and terminology | No new primary-source development or cross-company narrative shift met promotion criteria | [22:10 cycle](hourly/2026/07/15/22-10_IST.md) |
