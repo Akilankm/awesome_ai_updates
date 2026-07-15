@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 01:08 IST  
+**Collected:** 2026-07-16 02:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/01-08_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/02-08_IST.md)
 
 ## Must-know developments
 
@@ -37,9 +37,9 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No new primary model artifact was independently verified after the retained Inkling release; no additional claims were promoted | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
-| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
-| Safety and policy | Prospective U.S. chip and AI export-control action remains a watch item until primary rule text, scope, and dates are published | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
-| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [01:08 cycle](hourly/2026/07/16/01-08_IST.md) |
+| Frontier models | No new primary model artifact was independently verified after the retained Inkling release; additional secondary coverage did not change the model, licensing, benchmark, or serving conclusion | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
+| Research and benchmarks | No newly published paper displaced the stronger retained priorities | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
+| Safety and policy | No new primary rule text, formal standard, effective date, or implementation guidance was verified | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [02:08 cycle](hourly/2026/07/16/02-08_IST.md) |
