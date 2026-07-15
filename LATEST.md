@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-15 14:08 IST  
+**Collected:** 2026-07-15 15:07 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/14-08_IST.md)
+**Latest cycle:** [No newly qualifying development](hourly/2026/07/15/15-07_IST.md)
 
 ## Must-know developments
 
@@ -32,8 +32,8 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No newly verified primary-source release crossed the inclusion threshold | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
-| Research and benchmarks | No new item displaced or materially extended the retained working-memory priorities | [14:08 cycle](hourly/2026/07/15/14-08_IST.md) |
-| Safety and policy | A secondary report was placed on watch but not promoted without a verified primary government source | [Reuters, 2026-07-14](https://www.reuters.com/technology/us-launch-ai-cybersecurity-coordination-group-white-house-says-2026-07-14/) |
+| Frontier models | No newly verified primary-source release crossed the inclusion threshold | [15:07 cycle](hourly/2026/07/15/15-07_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the inclusion threshold | [15:07 cycle](hourly/2026/07/15/15-07_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots and stars were rejected | [15:07 cycle](hourly/2026/07/15/15-07_IST.md) |
+| Research and benchmarks | A coding-agent mutation-pattern paper was reviewed and retained only as a watch item | [Paper](https://arxiv.org/abs/2607.05666) · [15:07 cycle](hourly/2026/07/15/15-07_IST.md) |
+| Safety, policy, and terminology | No primary-source development or cross-company narrative shift met promotion criteria | [15:07 cycle](hourly/2026/07/15/15-07_IST.md) |
