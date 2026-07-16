@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-17 04:11 IST  
+**Collected:** 2026-07-17 05:10 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Adaptive adversarial evaluation promoted](hourly/2026/07/17/04-11_IST.md)
+**Latest cycle:** [No new qualifying signal](hourly/2026/07/17/05-10_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Agent safety and evaluation | Promoted GPT-Red as a high-value method signal and added adaptive adversarial evaluation to the living knowledge base | [04:11 cycle](hourly/2026/07/17/04-11_IST.md) |
-| Frontier models and model platforms | No newer official model card or release changed the retained model-selection conclusions | [04:11 cycle](hourly/2026/07/17/04-11_IST.md) |
-| Frameworks, GitHub, and Hugging Face | No release with material migration, security, reproducible performance, or architecture implications qualified; popularity-only signals were excluded | [04:11 cycle](hourly/2026/07/17/04-11_IST.md) |
+| All monitored categories | No newly verified development changed the retained architecture, career, meeting-language, or terminology conclusions after the 04:11 IST cycle | [05:10 cycle](hourly/2026/07/17/05-10_IST.md) |
+| Frontier models and model platforms | No newer official model card, system card, API release, or reproducible benchmark artifact qualified | [05:10 cycle](hourly/2026/07/17/05-10_IST.md) |
+| Frameworks, GitHub, and Hugging Face | No release with material migration, security, reproducible performance, or architecture implications qualified; popularity-only signals were excluded | [05:10 cycle](hourly/2026/07/17/05-10_IST.md) |
