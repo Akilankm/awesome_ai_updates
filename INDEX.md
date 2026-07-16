@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-16 21:08 IST
+**Last refreshed:** 2026-07-16 22:07 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-16 21:08 IST](hourly/2026/07/16/21-08_IST.md) |
-| Previous hourly record | [2026-07-16 20:09 IST](hourly/2026/07/16/20-09_IST.md) |
+| Current hourly record | [2026-07-16 22:07 IST](hourly/2026/07/16/22-07_IST.md) |
+| Previous hourly record | [2026-07-16 21:08 IST](hourly/2026/07/16/21-08_IST.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -28,4 +28,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-16 21:08 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. A reported Google DeepMind bioresilience initiative was retained as a watch item because no first-party technical artifact or measured outcome was verified; additional Inkling reporting remained duplicate evidence. | [Review record](hourly/2026/07/16/21-08_IST.md) |
+| 2026-07-16 22:07 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. Additional Inkling coverage remained duplicate evidence; the reported Google DeepMind bioresilience initiative stayed on watch because no first-party technical artifact or measured outcome was verified. | [Review record](hourly/2026/07/16/22-07_IST.md) |
