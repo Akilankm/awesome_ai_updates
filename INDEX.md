@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 04:11 IST
+**Last refreshed:** 2026-07-17 05:10 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 04:11 IST](hourly/2026/07/17/04-11_IST.md) |
-| Previous hourly record | [2026-07-17 03:09 IST](hourly/2026/07/17/03-09_IST.md) |
+| Current hourly record | [2026-07-17 05:10 IST](hourly/2026/07/17/05-10_IST.md) |
+| Previous hourly record | [2026-07-17 04:11 IST](hourly/2026/07/17/04-11_IST.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
@@ -33,4 +33,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 04:11 IST | Promoted GPT-Red and adaptive adversarial evaluation after a missed-signal review. No other model, framework, GitHub, Hugging Face, infrastructure, policy, or terminology candidate crossed the inclusion threshold. | [Review record](hourly/2026/07/17/04-11_IST.md) |
+| 2026-07-17 05:10 IST | No new primary-source development changed the retained architecture, career, terminology, or meeting-language conclusions. Duplicate incident and GPT-Red coverage, popularity-only trends, and routine framework churn were excluded. | [Review record](hourly/2026/07/17/05-10_IST.md) |
