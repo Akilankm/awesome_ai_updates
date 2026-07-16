@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 14:10 IST  
+**Collected:** 2026-07-16 15:11 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/14-10_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/15-11_IST.md)
 
 ## Must-know developments
 
@@ -37,10 +37,10 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No new primary model artifact was verified after the retained Inkling release; duplicate coverage added no decision-changing model, licensing, benchmark, safety, or serving evidence | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| AI engineering and agents | No new official agent-runtime, orchestration, evaluation, or interoperability artifact crossed the production-relevance threshold | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| Research and benchmarks | Reviewed candidates were outside the current window or did not displace stronger retained priorities | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| Safety and policy | No enacted rule, binding standard, or primary implementation guidance changed the current risk posture | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
-| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [14:10 cycle](hourly/2026/07/16/14-10_IST.md) |
+| Frontier models | No new primary model artifact was verified after the retained Inkling release; duplicate coverage added no decision-changing model, licensing, benchmark, safety, or serving evidence | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| AI engineering and agents | No new official agent-runtime, orchestration, evaluation, or interoperability artifact crossed the production-relevance threshold | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| Research and benchmarks | Reviewed candidates were outside the current window or did not displace stronger retained priorities | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| Safety and policy | No enacted rule, binding standard, or primary implementation guidance changed the current risk posture | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [15:11 cycle](hourly/2026/07/16/15-11_IST.md) |
