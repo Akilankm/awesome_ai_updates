@@ -1,13 +1,13 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 11:08 IST  
+**Collected:** 2026-07-16 12:07 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/11-08_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/12-07_IST.md)
 
 ## Must-know developments
 
 | Priority | Development | Event / publication time | Why it matters | Career value | Significance | Evidence |
-|---:|---|---|---|---|---:|---:|---|
+|---:|---|---|---|---|---|---:|---:|---|
 | 1 | Thinking Machines Lab released **Inkling**, its first general-purpose open-weight model, emphasizing customization and controllable deployment over benchmark leadership | Event and publication: 2026-07-15 | Strengthens the enterprise pattern of selecting models by adaptation economics, governance, hosting control, and workload fit | 9.0/10 | 8.7/10 | **B** · [Reuters](https://www.reuters.com/business/ai-startup-thinking-machines-launches-an-open-weight-ai-model-2026-07-15/) · [Axios](https://www.axios.com/2026/07/15/mira-murati-thinking-machines-open-weight-model-inkling) · [WSJ](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) |
 | 2 | Large-scale Microsoft study reports adopters of CLI coding agents merged about 24% more pull requests than the estimated counterfactual during a four-month rollout | Published 2026-07-01 | Enterprise adoption depends on peer diffusion, retention, workflow fit, and measurement—not tool access alone | 9.2/10 | 9.0/10 | **A** · [Paper](https://arxiv.org/abs/2607.01418) |
 | 3 | Analysis of 33,596 agent-authored PRs finds concurrent agent work is common and cross-agent pairs show materially higher textual merge-conflict rates than same-agent pairs | Published 2026-07-06 | Multi-agent coding requires coordination, ownership boundaries, and merge-aware orchestration | 9.1/10 | 8.9/10 | **A** · [Paper](https://arxiv.org/abs/2607.04697) |
@@ -37,10 +37,10 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No new primary model artifact was verified after the retained Inkling release; no model, licensing, benchmark, or serving conclusion changed | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| AI engineering and agents | Codex Micro reporting was reviewed but not promoted because no official product artifact, technical specification, security model, or deployment evidence was verified | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| Research and benchmarks | SciAgentArena remains useful but predates the review window and did not displace stronger retained priorities | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| Safety and policy | No enacted rule, binding standard, or implementation guidance changed the current risk posture | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
-| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [11:08 cycle](hourly/2026/07/16/11-08_IST.md) |
+| Frontier models | No new primary model artifact was verified after the retained Inkling release; duplicate coverage added no decision-changing model, licensing, benchmark, safety, or serving evidence | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| AI engineering and agents | No new official agent-runtime, orchestration, evaluation, or interoperability artifact crossed the production-relevance threshold | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| Research and benchmarks | SciAgentArena remains useful but predates the review window and did not displace the stronger retained clean-room evaluation priority | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| Safety and policy | No enacted rule, binding standard, or primary implementation guidance changed the current risk posture | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [12:07 cycle](hourly/2026/07/16/12-07_IST.md) |
