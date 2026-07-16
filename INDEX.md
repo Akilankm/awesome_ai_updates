@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-16 15:11 IST
+**Last refreshed:** 2026-07-16 16:07 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-16 15:11 IST](hourly/2026/07/16/15-11_IST.md) |
-| Previous hourly record | [2026-07-16 14:10 IST](hourly/2026/07/16/14-10_IST.md) |
+| Current hourly record | [2026-07-16 16:07 IST](hourly/2026/07/16/16-07_IST.md) |
+| Previous hourly record | [2026-07-16 15:11 IST](hourly/2026/07/16/15-11_IST.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -28,4 +28,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-16 15:11 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. Duplicate Inkling coverage supplied no new primary artifact; AgentDS was retained as older background; maintainer-burden reporting lacked a new reproducible technical artifact; no framework, GitHub, Hugging Face, safety, or terminology candidate met the promotion threshold. | [Review record](hourly/2026/07/16/15-11_IST.md) |
+| 2026-07-16 16:07 IST | No new verified signal changed a technical decision, skill priority, terminology position, or risk posture. A reported Google DeepMind bioresilience initiative was retained as a watch item because no first-party technical artifact or measurable outcome was retrieved; duplicate Inkling coverage and popularity-only trend signals were excluded. | [Review record](hourly/2026/07/16/16-07_IST.md) |
