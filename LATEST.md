@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-17 01:08 IST  
+**Collected:** 2026-07-17 02:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No newly qualified high-value development](hourly/2026/07/17/01-08_IST.md)
+**Latest cycle:** [No newly qualified high-value development](hourly/2026/07/17/02-08_IST.md)
 
 ## Must-know developments
 
@@ -34,6 +34,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models and model platforms | No newly published primary technical artifact after the prior cycle changed the retained conclusions | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
-| Frameworks, GitHub, and Hugging Face | No release with material migration, security, reproducible performance, or architecture implications qualified; popularity-only signals were excluded | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
-| Agents, research, safety, and policy | No non-duplicate candidate met the combined recency, technical-substance, career-value, and citation-completeness gates | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
+| Frontier models and model platforms | No newly published primary technical artifact after the prior cycle changed the retained conclusions | [02:08 cycle](hourly/2026/07/17/02-08_IST.md) |
+| Frameworks, GitHub, and Hugging Face | No release with material migration, security, reproducible performance, or architecture implications qualified; popularity-only signals were excluded | [02:08 cycle](hourly/2026/07/17/02-08_IST.md) |
+| Agents, research, safety, and policy | No non-duplicate candidate met the combined recency, technical-substance, career-value, significance, and citation-completeness gates | [02:08 cycle](hourly/2026/07/17/02-08_IST.md) |
