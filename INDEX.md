@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 01:08 IST
+**Last refreshed:** 2026-07-17 02:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 01:08 IST](hourly/2026/07/17/01-08_IST.md) |
-| Previous hourly record | [2026-07-17 00:11 IST](hourly/2026/07/17/00-11_IST.md) |
+| Current hourly record | [2026-07-17 02:08 IST](hourly/2026/07/17/02-08_IST.md) |
+| Previous hourly record | [2026-07-17 01:08 IST](hourly/2026/07/17/01-08_IST.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -31,4 +31,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 01:08 IST | No newly verified candidate crossed every recency, technical-substance, career-value, significance, non-duplication, and citation-completeness gate. Existing priorities were retained without dilution. | [Review record](hourly/2026/07/17/01-08_IST.md) |
+| 2026-07-17 02:08 IST | No newly verified candidate crossed every recency, technical-substance, career-value, significance, non-duplication, and citation-completeness gate. Existing priorities were retained without dilution. | [Review record](hourly/2026/07/17/02-08_IST.md) |
