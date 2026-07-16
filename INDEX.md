@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 03:09 IST
+**Last refreshed:** 2026-07-17 04:11 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,9 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 03:09 IST](hourly/2026/07/17/03-09_IST.md) |
-| Previous hourly record | [2026-07-17 02:08 IST](hourly/2026/07/17/02-08_IST.md) |
+| Current hourly record | [2026-07-17 04:11 IST](hourly/2026/07/17/04-11_IST.md) |
+| Previous hourly record | [2026-07-17 03:09 IST](hourly/2026/07/17/03-09_IST.md) |
+| Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
 | Research-agent evaluation mental model | [Clean-room agent evaluation](knowledge_base/mental_models/clean_room_agent_evaluation.md) |
@@ -19,6 +20,7 @@
 | Theme | Status | Why it is strategically important | Evidence |
 |---|---|---|---|
 | AI data-pipeline attack-surface engineering | Accelerating | Dataset loaders, templates, workers, credentials, clusters, and artifact publication can provide execution and lateral-movement paths | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
+| Adaptive adversarial evaluation | Accelerating | Static safety suites can saturate or overfit; iterative attackers, held-out environments, transfer tests, and capability-preservation metrics better represent production agent risk | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) · [Public competition](https://arxiv.org/abs/2603.15714) · [Adaptive attacks](https://aclanthology.org/2025.findings-naacl.395/) |
 | Agent-scale forensic readiness | Emerging | Machine-speed campaigns produce action volumes that require campaign-level correlation and locally controllable analysis tooling | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | Modular prompt transpilation | Emerging | Prompt reliability increasingly depends on modules, dependency validation, generated artifacts, and CI/CD gates | [Google Developers Blog](https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/) |
 | Provider-pluggable grounding | Accelerating | Grounding quality, provenance, freshness, cost, retention, and policy can be evaluated independently from the model | [Google Developers Blog](https://developers.googleblog.com/en/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/) |
@@ -31,4 +33,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 03:09 IST | No newly verified candidate crossed every recency, technical-substance, career-value, significance, non-duplication, and citation-completeness gate. Existing priorities were retained without dilution. | [Review record](hourly/2026/07/17/03-09_IST.md) |
+| 2026-07-17 04:11 IST | Promoted GPT-Red and adaptive adversarial evaluation after a missed-signal review. No other model, framework, GitHub, Hugging Face, infrastructure, policy, or terminology candidate crossed the inclusion threshold. | [Review record](hourly/2026/07/17/04-11_IST.md) |
