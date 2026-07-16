@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-16 09:07 IST  
+**Collected:** 2026-07-16 10:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/09-07_IST.md)
+**Latest cycle:** [No new high-value verified change](hourly/2026/07/16/10-08_IST.md)
 
 ## Must-know developments
 
@@ -37,9 +37,9 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models | No new primary model artifact was verified after the retained Inkling release; no model, licensing, benchmark, or serving conclusion changed | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
-| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
-| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
-| Research and benchmarks | RuBench and SciAgentArena remain methodologically useful but predate the review window and did not displace the stronger retained priorities | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
-| Safety and policy | No enacted rule, binding standard, or implementation guidance changed the current risk posture | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
-| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [09:07 cycle](hourly/2026/07/16/09-07_IST.md) |
+| Frontier models | No new primary model artifact was verified after the retained Inkling release; no model, licensing, benchmark, or serving conclusion changed | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
+| Python and AI frameworks | No material citation-complete release crossed the breaking-change, security, migration, or performance threshold | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
+| Hugging Face and GitHub trends | No defensible longitudinal trend was established; snapshots, stars, downloads, and likes remain insufficient evidence | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
+| Research and benchmarks | SciAgentArena remains useful but predates the review window and did not displace stronger retained priorities | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
+| Safety and policy | No enacted rule, binding standard, or implementation guidance changed the current risk posture | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
+| Terminology and action board | No cross-company term or new action met the promotion threshold; existing working memory remains stable | [10:08 cycle](hourly/2026/07/16/10-08_IST.md) |
