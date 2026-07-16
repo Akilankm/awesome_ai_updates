@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-17 00:11 IST  
+**Collected:** 2026-07-17 01:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Three new primary-source engineering signals](hourly/2026/07/17/00-11_IST.md)
+**Latest cycle:** [No newly qualified high-value development](hourly/2026/07/17/01-08_IST.md)
 
 ## Must-know developments
 
@@ -34,7 +34,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| AI security | Promoted AI data-pipeline attack-surface engineering and agent-scale forensic readiness | [00:11 cycle](hourly/2026/07/17/00-11_IST.md) |
-| Agent engineering | Promoted modular prompt transpilation as a production prompt-control pattern | [00:11 cycle](hourly/2026/07/17/00-11_IST.md) |
-| Grounding infrastructure | Promoted provider-pluggable grounding and independent citation-quality evaluation | [00:11 cycle](hourly/2026/07/17/00-11_IST.md) |
-| Frontier models, research, GitHub, policy | No additional signal crossed the recency, substance, and citation-completeness gates | [00:11 cycle](hourly/2026/07/17/00-11_IST.md) |
+| Frontier models and model platforms | No newly published primary technical artifact after the prior cycle changed the retained conclusions | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
+| Frameworks, GitHub, and Hugging Face | No release with material migration, security, reproducible performance, or architecture implications qualified; popularity-only signals were excluded | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
+| Agents, research, safety, and policy | No non-duplicate candidate met the combined recency, technical-substance, career-value, and citation-completeness gates | [01:08 cycle](hourly/2026/07/17/01-08_IST.md) |
