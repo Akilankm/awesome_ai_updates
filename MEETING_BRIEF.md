@@ -1,11 +1,13 @@
 # Meeting Brief
 
-**Updated:** 2026-07-17 00:11 IST
+**Updated:** 2026-07-17 04:11 IST
 
 ## Language worth using
 
 | Term | Precise meaning | Credible meeting formulation | Evidence |
 |---|---|---|---|
+| Adaptive adversarial evaluation | Iterative security testing in which an attacker observes the model or agent response and optimizes subsequent attacks against the actual harness, tools, and policy boundary | “We should move from a fixed jailbreak suite to adaptive adversarial evaluation against held-out, production-faithful agent environments.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) · [Adaptive attacks](https://aclanthology.org/2025.findings-naacl.395/) |
+| Security–utility evaluation | Joint measurement of attack resistance, unauthorized actions, benign task completion, over-refusal, and tool correctness | “A lower attack-success rate is meaningful only if benign completion and refusal calibration remain stable.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
 | AI data-pipeline attack surface | The executable and privileged boundary spanning loaders, parsers, templates, workers, credentials, clusters, and artifact publication | “Dataset ingestion must be treated as hostile code-adjacent input, with sandboxing, least privilege, credential isolation, and auditable provenance.” | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | Agent-scale forensic readiness | Security telemetry and investigation designed for thousands of coordinated automated actions rather than isolated alerts | “Machine-speed campaigns require campaign-level action correlation and forensic tooling that remains usable under data-residency and hosted-model constraints.” | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | Modular prompt transpilation | Compiling reusable prompt modules into validated runtime artifacts with dependency checks and release controls | “Our prompts should be compiled and tested control-plane artifacts, not manually concatenated strings embedded across services.” | [Google Developers Blog](https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/) |
@@ -18,6 +20,9 @@
 
 | Situation | Question |
 |---|---|
+| Agent security evaluation | “Can the attacker iteratively observe tool calls, optimize its strategy, and transfer attacks to held-out environments?” |
+| Safety release gate | “Which benign-completion, over-refusal, and tool-correctness metrics prevent apparent robustness from being explained by reduced capability?” |
+| Authorization design | “Which actions remain impossible even if the model follows a successful injected instruction?” |
 | Dataset ingestion security | “Which loaders or templates can execute code, what privileges do their workers hold, and can compromised jobs reach cluster or cloud credentials?” |
 | Agent security investigation | “Can we reconstruct an agent campaign as a causal action graph, and do we have a locally runnable forensic model for restricted incident data?” |
 | Prompt architecture | “Are prompt dependencies statically validated, versioned, semantically diffed, and regression-tested before release?” |
@@ -29,6 +34,9 @@
 
 | Weak claim | Why it is unsafe | Better formulation | Evidence |
 |---|---|---|---|
+| “GPT-Red proves GPT-5.6 is prompt-injection-proof.” | Reported results cover specified internal environments and attack classes, not universal security | “OpenAI reports strong robustness gains on its evaluated scenarios; independent, adaptive, workload-specific testing remains necessary.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
+| “Automated red teaming replaces human red teams.” | Automated attackers scale attack generation but do not replace threat modeling, domain expertise, third-party testing, or runtime controls | “Automated red teaming complements human red teams, layered safeguards, and monitoring.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
+| “Self-play guarantees general robustness.” | Self-play may overfit to its defender population, attack objectives, or environment distribution | “Self-play results must transfer to novel models, held-out environments, and capability-preservation tests.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
 | “Public Hugging Face models were compromised.” | The disclosure reported no evidence of tampering with public models, datasets, Spaces, container images, or published packages at that time | “The disclosed compromise affected parts of production infrastructure and some internal datasets and credentials; public artifacts were reported clean at disclosure time.” | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | “AI autonomously hacked Hugging Face without humans.” | The disclosure attributes execution to an autonomous framework but does not establish the human operator model | “The campaign used an autonomous agent framework to execute a large multi-stage intrusion.” | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | “Prompt transpilation guarantees reliable agents.” | Structural validation cannot prove runtime behavior or tool safety | “Prompt transpilation catches structural and dependency errors before deployment; behavioral evals remain necessary.” | [Google Developers Blog](https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/) |
