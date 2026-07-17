@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-18 00:07 IST  
+**Collected:** 2026-07-18 01:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value verified development qualified](hourly/2026/07/18/00-07_IST.md)
+**Latest cycle:** [No new high-value verified development qualified](hourly/2026/07/18/01-09_IST.md)
 
 ## Must-know developments
 
@@ -42,6 +42,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| All monitored domains | No newly verified item changed the current architecture thesis or crossed the combined recency, evidence, career-value, and significance thresholds | [00:07 cycle](hourly/2026/07/18/00-07_IST.md) |
-| Frontier models and model platforms | No newer official model card, system card, API release, or reproducible benchmark artifact qualified | [00:07 cycle](hourly/2026/07/18/00-07_IST.md) |
-| Frameworks, research, GitHub, and Hugging Face | No release or paper with material migration, security, reproducible performance, or architecture implications qualified; popularity-only and duplicate signals were excluded | [00:07 cycle](hourly/2026/07/18/00-07_IST.md) |
+| All monitored domains | No newly verified item changed the current architecture thesis or crossed the combined recency, evidence, career-value, and significance thresholds | [01:09 cycle](hourly/2026/07/18/01-09_IST.md) |
+| Frontier models and model platforms | No newer official model card, system card, API release, or reproducible benchmark artifact qualified | [01:09 cycle](hourly/2026/07/18/01-09_IST.md) |
+| Frameworks, research, GitHub, and Hugging Face | No release or paper with material migration, security, reproducible performance, or architecture implications qualified; popularity-only and duplicate signals were excluded | [01:09 cycle](hourly/2026/07/18/01-09_IST.md) |
