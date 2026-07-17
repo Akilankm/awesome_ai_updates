@@ -1,11 +1,12 @@
 # Meeting Brief
 
-**Updated:** 2026-07-17 04:11 IST
+**Updated:** 2026-07-17 07:10 IST
 
 ## Language worth using
 
 | Term | Precise meaning | Credible meeting formulation | Evidence |
 |---|---|---|---|
+| Lifecycle-aware agent skill security | Governance and evaluation across skill admission, indexing, retrieval, planner selection, execution, update, and revocation | “We should treat reusable agent skills as a governed software supply chain, not as prompt snippets loaded on demand.” | [SkillSec-Eval](https://arxiv.org/abs/2607.13987) |
 | Adaptive adversarial evaluation | Iterative security testing in which an attacker observes the model or agent response and optimizes subsequent attacks against the actual harness, tools, and policy boundary | “We should move from a fixed jailbreak suite to adaptive adversarial evaluation against held-out, production-faithful agent environments.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) · [Adaptive attacks](https://aclanthology.org/2025.findings-naacl.395/) |
 | Security–utility evaluation | Joint measurement of attack resistance, unauthorized actions, benign task completion, over-refusal, and tool correctness | “A lower attack-success rate is meaningful only if benign completion and refusal calibration remain stable.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
 | AI data-pipeline attack surface | The executable and privileged boundary spanning loaders, parsers, templates, workers, credentials, clusters, and artifact publication | “Dataset ingestion must be treated as hostile code-adjacent input, with sandboxing, least privilege, credential isolation, and auditable provenance.” | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
@@ -20,6 +21,9 @@
 
 | Situation | Question |
 |---|---|
+| Agent skill registry | “Which lifecycle stages can introduce an untrusted skill, and where can we revoke it globally?” |
+| Skill retrieval | “Does semantic relevance outrank provenance, authorization, namespace policy, or version approval?” |
+| Skill updates | “Which changes trigger re-attestation, and can we roll back both the skill and its dependent agents?” |
 | Agent security evaluation | “Can the attacker iteratively observe tool calls, optimize its strategy, and transfer attacks to held-out environments?” |
 | Safety release gate | “Which benign-completion, over-refusal, and tool-correctness metrics prevent apparent robustness from being explained by reduced capability?” |
 | Authorization design | “Which actions remain impossible even if the model follows a successful injected instruction?” |
@@ -34,6 +38,8 @@
 
 | Weak claim | Why it is unsafe | Better formulation | Evidence |
 |---|---|---|---|
+| “Runtime isolation makes agent skills safe.” | It does not address admission, retrieval, planner selection, update, or revocation risk | “Runtime isolation is one control within lifecycle-wide skill governance.” | [SkillSec-Eval](https://arxiv.org/abs/2607.13987) |
+| “The planner will select the right skill.” | Relevance does not establish provenance, authorization, or safe behavior | “Planner selection must combine relevance, provenance, authorization, and policy.” | [SkillSec-Eval](https://arxiv.org/abs/2607.13987) |
 | “GPT-Red proves GPT-5.6 is prompt-injection-proof.” | Reported results cover specified internal environments and attack classes, not universal security | “OpenAI reports strong robustness gains on its evaluated scenarios; independent, adaptive, workload-specific testing remains necessary.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
 | “Automated red teaming replaces human red teams.” | Automated attackers scale attack generation but do not replace threat modeling, domain expertise, third-party testing, or runtime controls | “Automated red teaming complements human red teams, layered safeguards, and monitoring.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
 | “Self-play guarantees general robustness.” | Self-play may overfit to its defender population, attack objectives, or environment distribution | “Self-play results must transfer to novel models, held-out environments, and capability-preservation tests.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
