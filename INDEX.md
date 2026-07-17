@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 11:10 IST
+**Last refreshed:** 2026-07-17 12:21 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 11:10 IST](hourly/2026/07/17/11-10_IST.md) |
-| Previous hourly record | [2026-07-17 10:08 IST](hourly/2026/07/17/10-08_IST.md) |
+| Current hourly record | [2026-07-17 12:21 IST](hourly/2026/07/17/12-21_IST.md) |
+| Previous hourly record | [2026-07-17 11:10 IST](hourly/2026/07/17/11-10_IST.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
@@ -35,4 +35,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 11:10 IST | No newly verified development crossed the combined recency, evidence, career-value, significance, and citation-completeness thresholds. Existing mental models, meeting language, terminology, and action priorities remain current. | [Review record](hourly/2026/07/17/11-10_IST.md) |
+| 2026-07-17 12:21 IST | No newly verified development crossed the combined recency, evidence, career-value, significance, and citation-completeness thresholds. Existing mental models, meeting language, terminology, and action priorities remain current. | [Review record](hourly/2026/07/17/12-21_IST.md) |
