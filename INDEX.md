@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 06:09 IST
+**Last refreshed:** 2026-07-17 07:10 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 06:09 IST](hourly/2026/07/17/06-09_IST.md) |
-| Previous hourly record | [2026-07-17 05:10 IST](hourly/2026/07/17/05-10_IST.md) |
+| Current hourly record | [2026-07-17 07:10 IST](hourly/2026/07/17/07-10_IST.md) |
+| Previous hourly record | [2026-07-17 06:09 IST](hourly/2026/07/17/06-09_IST.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
@@ -19,6 +19,7 @@
 
 | Theme | Status | Why it is strategically important | Evidence |
 |---|---|---|---|
+| Lifecycle-aware agent skill security | Emerging | Reusable skills create policy and trust boundaries across admission, retrieval, planner selection, execution, update, and revocation | [SkillSec-Eval](https://arxiv.org/abs/2607.13987) |
 | AI data-pipeline attack-surface engineering | Accelerating | Dataset loaders, templates, workers, credentials, clusters, and artifact publication can provide execution and lateral-movement paths | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
 | Adaptive adversarial evaluation | Accelerating | Static safety suites can saturate or overfit; iterative attackers, held-out environments, transfer tests, and capability-preservation metrics better represent production agent risk | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) · [Public competition](https://arxiv.org/abs/2603.15714) · [Adaptive attacks](https://aclanthology.org/2025.findings-naacl.395/) |
 | Agent-scale forensic readiness | Emerging | Machine-speed campaigns produce action volumes that require campaign-level correlation and locally controllable analysis tooling | [Hugging Face disclosure](https://huggingface.co/blog/security-incident-july-2026) |
@@ -33,4 +34,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 06:09 IST | No new primary-source development changed the retained architecture, career, terminology, or meeting-language conclusions. Duplicate incident and GPT-Red coverage, popularity-only trends, routine framework churn, and non-AI GitHub operations updates were excluded. | [Review record](hourly/2026/07/17/06-09_IST.md) |
+| 2026-07-17 07:10 IST | Promoted lifecycle-aware skill security as an emerging architecture and evaluation pattern. No new frontier-model, framework, GitHub, Hugging Face, or policy item crossed the inclusion threshold. | [Review record](hourly/2026/07/17/07-10_IST.md) |
