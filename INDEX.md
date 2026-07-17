@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-17 05:10 IST
+**Last refreshed:** 2026-07-17 06:09 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-17 05:10 IST](hourly/2026/07/17/05-10_IST.md) |
-| Previous hourly record | [2026-07-17 04:11 IST](hourly/2026/07/17/04-11_IST.md) |
+| Current hourly record | [2026-07-17 06:09 IST](hourly/2026/07/17/06-09_IST.md) |
+| Previous hourly record | [2026-07-17 05:10 IST](hourly/2026/07/17/05-10_IST.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
 | Coding-agent orchestration mental model | [Concurrent coding agents](knowledge_base/mental_models/concurrent_coding_agents.md) |
@@ -33,4 +33,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-17 05:10 IST | No new primary-source development changed the retained architecture, career, terminology, or meeting-language conclusions. Duplicate incident and GPT-Red coverage, popularity-only trends, and routine framework churn were excluded. | [Review record](hourly/2026/07/17/05-10_IST.md) |
+| 2026-07-17 06:09 IST | No new primary-source development changed the retained architecture, career, terminology, or meeting-language conclusions. Duplicate incident and GPT-Red coverage, popularity-only trends, routine framework churn, and non-AI GitHub operations updates were excluded. | [Review record](hourly/2026/07/17/06-09_IST.md) |
