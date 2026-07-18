@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-18 07:09 IST  
+**Collected:** 2026-07-18 08:07 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Repository-scoped AI engineering governance](hourly/2026/07/18/07-09_IST.md)
+**Latest cycle:** [No new high-value changes](hourly/2026/07/18/08-07_IST.md)
 
 ## Must-know developments
 
@@ -46,5 +46,4 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| AI engineering and GitHub | Promote repository-level AI engineering observability, separate code-review runtime governance, and instruction-policy CI | [07:09 cycle](hourly/2026/07/18/07-09_IST.md) |
-| Frontier models, frameworks, research, Hugging Face, and policy | No additional non-duplicate item changed the current architecture thesis or crossed the combined evidence, career-value, and significance thresholds | [07:09 cycle](hourly/2026/07/18/07-09_IST.md) |
+| Frontier models, AI engineering, frameworks, agents, research, infrastructure, benchmarks, safety, policy, and terminology | No newly verified, non-duplicate item changed the current architecture thesis or crossed the combined evidence, career-value, and significance thresholds. Existing priorities remain active. | [08:07 cycle](hourly/2026/07/18/08-07_IST.md) |
