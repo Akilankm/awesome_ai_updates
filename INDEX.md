@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-18 23:07 IST
+**Last refreshed:** 2026-07-19 00:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-18 23:07 IST](hourly/2026/07/18/23-07_IST.md) |
-| Previous hourly record | [2026-07-18 22:08 IST](hourly/2026/07/18/22-08_IST.md) |
+| Current hourly record | [2026-07-19 00:08 IST](hourly/2026/07/19/00-08_IST.md) |
+| Previous hourly record | [2026-07-18 23:07 IST](hourly/2026/07/18/23-07_IST.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
@@ -38,4 +38,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-18 23:07 IST | Deliberate null result: no newly verified, non-duplicate frontier-model, engineering, framework, agent, research, benchmark, infrastructure, safety, policy, Hugging Face, GitHub-trend, or terminology item changed the current architecture thesis or crossed the evidence and career-value thresholds. | [Review record](hourly/2026/07/18/23-07_IST.md) |
+| 2026-07-19 00:08 IST | Deliberate null result: no newly verified, non-duplicate frontier-model, engineering, framework, agent, research, benchmark, infrastructure, safety, policy, Hugging Face, GitHub-trend, or terminology item changed the current architecture thesis or crossed the evidence and career-value thresholds. | [Review record](hourly/2026/07/19/00-08_IST.md) |
