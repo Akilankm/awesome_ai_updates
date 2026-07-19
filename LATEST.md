@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-19 11:08 IST  
+**Collected:** 2026-07-19 12:07 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [No new high-value changes](hourly/2026/07/19/11-08_IST.md)
+**Latest cycle:** [No new high-value changes](hourly/2026/07/19/12-07_IST.md)
 
 ## Must-know developments
 
@@ -46,4 +46,4 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Frontier models, AI engineering, frameworks, agents, research, infrastructure, benchmarks, safety, policy, and terminology | No newly verified, non-duplicate item changed the current architecture thesis or crossed the combined evidence, career-value, and significance thresholds. Existing priorities remain active. | [11:08 cycle](hourly/2026/07/19/11-08_IST.md) |
+| Frontier models, AI engineering, frameworks, agents, research, infrastructure, benchmarks, safety, policy, and terminology | No newly verified, non-duplicate item changed the current architecture thesis or crossed the combined evidence, career-value, and significance thresholds. Existing priorities remain active. | [12:07 cycle](hourly/2026/07/19/12-07_IST.md) |
