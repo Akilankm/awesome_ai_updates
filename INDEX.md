@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-20 22:09 IST
+**Last refreshed:** 2026-07-20 23:09 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-20 22:09 IST](hourly/2026/07/20/22-09_IST.md) |
-| Previous hourly record | [2026-07-20 21:08 IST](hourly/2026/07/20/21-08_IST.md) |
+| Current hourly record | [2026-07-20 23:09 IST](hourly/2026/07/20/23-09_IST.md) |
+| Previous hourly record | [2026-07-20 22:09 IST](hourly/2026/07/20/22-09_IST.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
 | Agent-security evaluation mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Open-weight customization mental model | [Adaptation-adjusted model value](knowledge_base/mental_models/adaptation_adjusted_model_value.md) |
@@ -34,4 +34,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-20 22:09 IST | No newly verified, non-duplicate item crossed the promotion thresholds. GitHub Code Quality GA remains the latest substantive signal; meeting, terminology, action, and living knowledge-base files were reviewed and left unchanged because no new evidence justified modification. | [Review record](hourly/2026/07/20/22-09_IST.md) |
+| 2026-07-20 23:09 IST | No newly verified, non-duplicate item crossed the promotion thresholds. A minor GitHub Copilot billing-cycle AI-credit visibility improvement was reviewed but not promoted because it introduced no new architecture, API, policy enforcement, evaluation method, or durable engineering primitive. Meeting, terminology, action, and living knowledge-base files were reviewed and left unchanged. | [Review record](hourly/2026/07/20/23-09_IST.md) |
