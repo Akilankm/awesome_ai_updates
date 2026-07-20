@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-21 01:07 IST  
+**Collected:** 2026-07-21 02:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Edge world-action models and AI-credit governance](hourly/2026/07/21/01-07_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/21/02-09_IST.md)
 
 ## Must-know developments
 
@@ -39,6 +39,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Physical AI | Promote Cosmos 3 Edge because it provides an open, deployable architecture connecting reasoning, simulation, and action at the edge. | [01:07 cycle](hourly/2026/07/21/01-07_IST.md) |
-| AI engineering economics | Promote GitHub’s credit-pool and user-visibility controls because they add concrete allocation, limit, overage, and transparency primitives. | [01:07 cycle](hourly/2026/07/21/01-07_IST.md) |
-| Other monitored areas | No additional newly published, verified, non-duplicate item crossed the combined technical, evidence, career, significance, and architecture thresholds. | [01:07 cycle](hourly/2026/07/21/01-07_IST.md) |
+| Promotion decision | No newly published, verified, non-duplicate item crossed the combined technical, evidence, career-value, significance, and architecture thresholds after the 01:07 IST cycle. | [02:09 cycle](hourly/2026/07/21/02-09_IST.md) |
+| Existing priorities | Retain trajectory-level agent control, edge world-action evaluation, quality-adjusted AI engineering governance, and outcome-linked AI-credit governance without modification. | [02:09 cycle](hourly/2026/07/21/02-09_IST.md) |
+| Knowledge-base maintenance | No new terminology, action, meeting guidance, or mental-model file was added because existing guidance remains current and duplication would reduce signal quality. | [02:09 cycle](hourly/2026/07/21/02-09_IST.md) |
