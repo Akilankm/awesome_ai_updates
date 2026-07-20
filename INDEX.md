@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-21 03:09 IST
+**Last refreshed:** 2026-07-21 04:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-21 03:09 IST](hourly/2026/07/21/03-09_IST.md) |
-| Previous hourly record | [2026-07-21 02:09 IST](hourly/2026/07/21/02-09_IST.md) |
+| Current hourly record | [2026-07-21 04:08 IST](hourly/2026/07/21/04-08_IST.md) |
+| Previous hourly record | [2026-07-21 03:09 IST](hourly/2026/07/21/03-09_IST.md) |
 | Long-horizon safety mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
 | Physical-AI deployment mental model | [Edge world-action models](knowledge_base/mental_models/edge_world_action_models.md) |
@@ -31,4 +31,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-21 03:09 IST | Verified null intelligence delta. No newly published, non-duplicate item cleared the technical, evidence, career-value, significance, and architecture thresholds; existing priorities remain current. | [Review record](hourly/2026/07/21/03-09_IST.md) |
+| 2026-07-21 04:08 IST | Verified null intelligence delta. No newly published, non-duplicate item cleared the technical, evidence, career-value, significance, and architecture thresholds; existing priorities remain current. | [Review record](hourly/2026/07/21/04-08_IST.md) |
