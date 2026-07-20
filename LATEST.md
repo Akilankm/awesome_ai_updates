@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-21 03:09 IST  
+**Collected:** 2026-07-21 04:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/21/03-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/21/04-08_IST.md)
 
 ## Must-know developments
 
@@ -39,6 +39,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion decision | No newly published, verified, non-duplicate item crossed the combined technical, evidence, career-value, significance, and architecture thresholds after the 02:09 IST cycle. | [03:09 cycle](hourly/2026/07/21/03-09_IST.md) |
-| Existing priorities | Retain trajectory-level agent control, edge world-action evaluation, quality-adjusted AI engineering governance, outcome-linked AI-credit governance, and AI data-pipeline security without modification. | [03:09 cycle](hourly/2026/07/21/03-09_IST.md) |
-| Knowledge-base maintenance | No new terminology, action, meeting guidance, or mental-model file was added because existing guidance remains current and duplication would reduce signal quality. | [03:09 cycle](hourly/2026/07/21/03-09_IST.md) |
+| Promotion decision | No newly published, verified, non-duplicate item crossed the combined technical, evidence, career-value, significance, and architecture thresholds after the 03:09 IST cycle. | [04:08 cycle](hourly/2026/07/21/04-08_IST.md) |
+| Existing priorities | Retain trajectory-level agent control, edge world-action evaluation, quality-adjusted AI engineering governance, outcome-linked AI-credit governance, and AI data-pipeline security without modification. | [04:08 cycle](hourly/2026/07/21/04-08_IST.md) |
+| Knowledge-base maintenance | No new terminology, action, meeting guidance, or mental-model file was added because existing guidance remains current and duplication would reduce signal quality. | [04:08 cycle](hourly/2026/07/21/04-08_IST.md) |
