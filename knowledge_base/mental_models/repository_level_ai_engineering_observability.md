@@ -1,61 +1,68 @@
 # Repository-Level AI Engineering Observability
 
 **Established:** 2026-07-18 07:09 IST  
+**Updated:** 2026-07-20 20:14 IST  
 **Evidence grade:** A — first-party product and API documentation
 
 ## Core model
 
-AI coding-tool activity is not a productivity metric by itself. It becomes decision-useful only when evaluated at the repository and workflow level and joined to engineering outcomes, risk, and cost.
+AI coding activity becomes decision-useful only when it is evaluated at repository and workflow level and joined to delivery outcomes, quality evidence, policy enforcement, remediation, risk, and cost.
 
 | Layer | Measure | Why it matters | Evidence |
 |---|---|---|---|
-| Adoption | Active users, sessions, requests, prompts, and token usage | Shows whether a tool is being used and its consumption profile, but not whether it creates value | [GitHub app metrics](https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api/) |
-| Repository activity | Agent-created and merged PRs, reviewed PRs, and review suggestions by repository | Locates AI activity in the codebases where delivery, quality, security, and risk can be measured | [GitHub repository metrics](https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/) |
-| Delivery outcomes | Lead time, review latency, merge rate, deployment frequency, and change failure rate | Determines whether AI assistance improves flow rather than merely increasing output volume | [GitHub repository metrics](https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/) |
-| Quality and security | Defect escape, rollback, rework, accepted findings, vulnerability detections, and policy violations | Prevents speed gains from hiding downstream quality or security costs | [GitHub code-review controls](https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/) |
-| Economics | AI credits, token consumption, runner cost, review effort, and avoided or added rework | Converts adoption into workload-specific unit economics | [GitHub app metrics](https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api/) |
-| Governance | Repository criticality, data classification, agent permissions, runner profile, egress, secrets, and instruction ownership | Aligns controls with the actual risk boundary of each codebase and agent workload | [GitHub code-review controls](https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/) |
+| Adoption | Active users, sessions, requests, prompts, and token usage | Shows use and consumption, not value | [GitHub app metrics](https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api/) |
+| Repository activity | Agent-created and merged PRs, reviewed PRs, and review suggestions by repository | Locates AI activity in codebases where outcomes can be measured | [GitHub repository metrics](https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/) |
+| Deterministic evidence | CodeQL-powered maintainability and reliability findings | Provides a reproducible quality baseline | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| AI-assisted evidence | AI-assisted detections and Copilot Autofix suggestions | Extends review coverage but requires separate evaluation | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| Coverage and policy | Cobertura coverage plus ruleset thresholds for quality and coverage | Converts evidence into evaluated or enforced repository policy | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| Remediation | Finding resolution, accepted fixes, rework, rollback, and escaped defects | Tests whether controls reduce downstream engineering cost | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| Economics | Active-committer licensing, AI usage, Actions compute, review, and remediation | Supports workload-specific unit economics | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
 
-## Runtime separation principle
+## Closed-loop governance
 
-Implementation agents and review agents should be treated as separate workload classes.
-
-| Control dimension | Implementation agent | Review agent |
+| Stage | Key question | Minimum evidence |
 |---|---|---|
-| Primary objective | Modify code and produce a candidate change | Inspect code and produce evidence-backed findings |
-| Write permissions | Limited to assigned branch/worktree | Prefer read-only repository access except review artifacts |
-| Network access | Task-specific allowlist | Narrow review-tool and dependency allowlist |
-| Secrets | Only task-required, short-lived credentials | Usually none; separate credentials where unavoidable |
-| Setup | Build and test environment | Static analysis, test, policy, and review environment |
-| Failure policy | Stop before unsafe or unvalidated writes | Abstain or flag incomplete evidence rather than invent findings |
-| Audit | Tool calls, file changes, tests, provenance | Instruction version, evidence, suggestions, accepted/rejected findings |
+| Observe | Where is AI assistance used? | Repository-scoped activity |
+| Analyze | What deterministic and AI-assisted findings are produced? | Finding type, severity, provenance, precision, recall, and acceptance |
+| Evaluate | What happens under proposed thresholds? | Evaluate-mode results by repository class |
+| Enforce | Which changes should be blocked, warned, or excepted? | Ruleset policy, ownership, exceptions, and rollback |
+| Remediate | Are findings resolved and fixes durable? | Resolution time, accepted fixes, regressions, and escaped defects |
+| Attribute | Is the system beneficial? | Delivery, rework, quality, and total cost |
 
-GitHub’s separation of code-review runner configuration from the cloud coding agent, plus dedicated review setup and firewall controls, provides concrete evidence for this workload-specific model. [Primary source](https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/)
+The governing unit is **cost per accepted, quality-gated change**, not prompts, tokens, generated lines, or agent-created pull requests.
 
-## Instruction-policy CI
+## Layered evidence principle
 
-Files such as `AGENTS.md`, `copilot-instructions.md`, skills, and model-specific guidance can alter agent behavior. They should be governed as policy-bearing artifacts.
+| Property | Deterministic analysis | AI-assisted detection |
+|---|---|---|
+| Reproducibility | High under fixed code, rules, and version | May vary across model, context, and runtime |
+| Strength | Known rule classes and stable regressions | Broader semantic patterns and proposed fixes |
+| Main risk | Rule blind spots | False positives, context errors, and invalid fixes |
+| Evaluation | Rule correctness, coverage, runtime, and stability | Precision, recall, severity calibration, acceptance, escaped defects, and cost |
+| Governance role | Reproducible baseline | Additional evidence layer subject to measured trust |
 
-| Gate | Required check |
+## Evaluate-before-enforce principle
+
+Quality and coverage gates should begin in evaluate mode before they block merges.
+
+| Gate-design question | Required answer |
 |---|---|
-| Ownership | Named accountable team and CODEOWNERS coverage |
-| Structural validation | Schema, path, dependency, and reference checks |
-| Policy linting | Prohibited directives, privilege expansion, secret requests, unsafe egress, or bypass language |
-| Semantic diff | Human-readable explanation of behavioral and policy changes |
-| Regression evaluation | Representative review tasks, security checks, false-positive rate, missed-finding rate, and instruction-conflict tests |
-| Promotion | Protected-branch approval with evidence and rollback path |
-
-GitHub code review now reads instruction files from the PR head branch, enabling pre-merge testing while also making branch content part of the behavioral control surface. [Primary source](https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements/)
+| Repository scope | Which repository classes and criticality tiers are covered? |
+| Baseline | What is the current distribution of quality, reliability, and coverage results? |
+| Error cost | What are false-positive, missed-finding, and unnecessary-remediation costs? |
+| Delivery effect | How do proposed gates affect review latency and merge flow? |
+| Exception model | Who may approve exceptions, for how long, and with what evidence? |
+| Rollback | How can a harmful threshold or analyzer update be disabled? |
 
 ## Interpretation rules
 
 | Observation | Invalid inference | Valid interpretation |
 |---|---|---|
-| More agent-created PRs | Productivity increased | Automation activity increased; evaluate cycle time, quality, rework, risk, and cost |
-| More review suggestions | Review quality improved | Review output increased; measure precision, acceptance, severity, and escaped defects |
-| Higher token usage | Harder or more valuable work was completed | Consumption increased; normalize by accepted outcomes and cost |
-| More active users | Adoption succeeded | Reach increased; validate sustained use and engineering outcomes |
-| Firewall enabled | Agent is fully isolated | Network access is constrained under the supported execution model; other privileges and self-hosted limitations remain |
+| More agent-created PRs | Productivity increased | Automation activity increased; evaluate outcomes and cost |
+| Higher quality score | Productivity or business value increased | Quality evidence improved; join it with delivery, incidents, rework, and economics |
+| More AI-assisted findings | Review quality improved | Review output increased; measure precision, severity, acceptance, and escaped defects |
+| More pre-merge resolutions | The result will generalize everywhere | Findings were resolved in the observed setting; establish local evidence |
+| Higher AI usage | Harder or more valuable work was completed | Consumption increased; normalize by accepted, quality-gated outcomes |
 
 ## Minimum viable scorecard
 
@@ -64,22 +71,23 @@ GitHub code review now reads instruction files from the PR head branch, enabling
 | Adoption | Weekly active AI users per repository team |
 | Utilization | Agent sessions and tokens per merged change |
 | Flow | Median PR lead time with and without AI assistance |
-| Review | Accepted high-severity findings per 100 reviewed PRs |
-| Quality | Escaped defects and rollback rate |
-| Security | Valid vulnerability findings, false positives, and policy violations |
-| Rework | Post-review corrective commits and reopened PRs |
-| Economics | AI and runner cost per accepted change |
-| Risk | Activity by repository criticality and data classification |
+| Deterministic quality | Valid deterministic findings per 100 PRs |
+| AI-assisted quality | Precision and accepted high-severity findings per 100 reviewed PRs |
+| Coverage | Coverage delta and gate pass rate by repository class |
+| Policy | Evaluate-mode failures, enforced blocks, exceptions, and rollback events |
+| Remediation | Median finding resolution time and repeat-finding rate |
+| Outcome quality | Escaped defects, rollback rate, and post-merge corrective work |
+| Economics | License, AI, compute, and review cost per accepted, quality-gated change |
 
 ## Guardrails
 
-1. Do not rank individuals from prompt, token, or PR counts.
-2. Use minimum sample sizes and confidence intervals before claiming outcome changes.
-3. Separate correlation from causation; rollout selection can bias apparent gains.
-4. Segment by repository type, language, complexity, criticality, and team workflow.
-5. Publish metric definitions, blind spots, retention, privacy controls, and intended use.
-6. Treat telemetry as an input to enablement and governance—not automated performance management.
+1. Do not rank individuals from activity, finding, or gate counts.
+2. Use minimum sample sizes before claiming outcome changes.
+3. Separate correlation from causation and segment by repository type and criticality.
+4. Preserve provenance between deterministic findings, AI-assisted findings, and human review.
+5. Begin in evaluate mode and define exceptions and rollback before enforcement.
+6. Treat vendor-reported internal resolution rates as directional evidence, not transferable guarantees.
 
 ## Career implication
 
-The high-value skill is no longer merely “using an AI coding assistant.” It is designing **AI engineering control planes** that combine telemetry, software-delivery analytics, workload-specific security boundaries, policy-as-code, evaluation, and unit economics.
+The high-value skill is designing **quality-adjusted AI engineering control planes** that combine repository telemetry, deterministic and AI-assisted evidence, coverage, ruleset policy, remediation analytics, delivery outcomes, and unit economics.
