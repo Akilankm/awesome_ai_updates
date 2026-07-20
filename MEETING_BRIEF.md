@@ -1,36 +1,32 @@
 # Meeting Brief
 
-**Updated:** 2026-07-21 00:10 IST
+**Updated:** 2026-07-21 01:07 IST
 
 ## Language worth using
 
 | Term | Precise meaning | Credible meeting formulation | Evidence |
 |---|---|---|---|
-| Trajectory-level agent control | Evaluating cumulative intent, constraint bypass, privilege expansion, and outcome across a long-running session rather than approving isolated actions only | “A safe tool call does not guarantee a safe trajectory; the control plane must reason over what the complete sequence is trying to achieve.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Incident-derived evaluation | Converting observed deployment failures into replayable adversarial tests and release gates | “Production incidents should become versioned evaluation assets, not remain narrative postmortems.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Reversible agent deployment | Staged access with active monitoring, pause, inspection, replay, safeguard updates, rollback, and controlled redeployment | “Long-horizon autonomy should expand only through reversible deployment stages with intervention and recovery built in.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Quality-adjusted AI engineering | Evaluating AI-assisted development through layered findings, enforceable gates, remediation, delivery impact, and cost | “The useful unit is an accepted change that passes explicit quality gates without downstream rework.” | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
-| Repository-scoped AI engineering observability | Measuring AI coding activity at repository granularity alongside delivery, quality, security, risk, and cost | “Move from seat-level adoption reporting to repository-level outcome observability.” | [GitHub repository metrics](https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available/) |
-| Lifecycle-aware agent skill security | Governance across skill admission, indexing, retrieval, selection, execution, update, and revocation | “Reusable agent skills are a governed software supply chain, not prompt snippets loaded on demand.” | [SkillSec-Eval](https://arxiv.org/abs/2607.13987) |
-| AI data-pipeline attack surface | The executable and privileged boundary spanning loaders, templates, workers, credentials, clusters, and publication | “Dataset ingestion must be treated as hostile code-adjacent input.” | [Hugging Face](https://huggingface.co/blog/security-incident-july-2026) |
+| Trajectory-level agent control | Evaluating cumulative intent and outcome across a long-running session, not isolated calls only | “A safe tool call does not guarantee a safe trajectory.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
+| Edge world-action model | A compact model connecting observation, reasoning, predicted consequence, and action generation on constrained hardware | “This is not merely an edge VLM; it is a shared world/action representation spanning understanding, simulation, and policy.” | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
+| Outcome-linked AI credit governance | Allocation and control of AI credits tied to cost centers, workloads, limits, overages, and useful outcomes | “Separate entitlement pools from metered budgets, then attribute consumption to accepted engineering outcomes.” | [GitHub pools](https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/) |
+| Quality-adjusted AI engineering | Evaluating AI-assisted development through findings, gates, remediation, delivery impact, and cost | “The useful unit is an accepted change that passes explicit quality gates without downstream rework.” | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| Incident-derived evaluation | Converting deployment failures into replayable adversarial tests and release gates | “Production incidents should become versioned evaluation assets.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
 
 ## Questions that demonstrate depth
 
 | Situation | Question | Evidence |
 |---|---|---|
-| Long-running agent approval | “Can the policy engine detect an unauthorized objective emerging across many individually permissible actions?” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Sandbox design | “What prevents a persistent agent from repeatedly probing escape paths, expanding egress, or acquiring a stronger identity?” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Operational safety | “Can we pause, inspect, replay, resume, and roll back a session without losing forensic provenance?” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Evaluation | “Do our tests match production trajectory length, and are real incidents converted into regression environments?” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| AI code quality rollout | “Which findings are deterministic versus AI-assisted, and which repository classes should enforce them?” | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
+| Physical-AI architecture | “Are reasoning, generated futures, and control actions validated separately even when they share attention and representation?” | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
+| Edge deployment | “What are latency, action-validity, recovery, memory, power, and thermal results on our target hardware—not only the vendor benchmark?” | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
+| AI economics | “Which workloads consume each cost center’s included credits, and what happens at the pool limit versus the metered budget limit?” | [GitHub pools](https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/) |
+| Agent approval | “Can the policy engine detect an unauthorized objective emerging across many permissible actions?” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
 | AI coding economics | “What is total cost per accepted, quality-gated change after compute, licensing, review, and remediation?” | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
 
 ## Claims to avoid
 
 | Weak claim | Why it is unsafe | Better formulation | Evidence |
 |---|---|---|---|
-| “Every action was approved, so the agent was safe.” | Individually acceptable actions can combine into an unauthorized outcome | “Approval must cover both individual actions and cumulative trajectory intent.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| “The sandbox is enough.” | Persistent agents may repeatedly search for weaknesses and exploit control gaps | “Sandboxing needs defense in depth, scoped identity, egress control, monitoring, and intervention.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| “Passing pre-deployment evals proves production safety.” | Deployment conditions and horizon lengths differ from evaluation | “Pre-deployment tests must be paired with staged deployment, monitoring, incident-derived evals, and rollback.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| “AI code quality replaces CodeQL.” | GitHub combines deterministic CodeQL with AI-assisted detection | “AI-assisted detection complements deterministic analysis and needs separate evaluation.” | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
-| “GPT-Red proves prompt-injection immunity.” | Results cover specified environments and attack classes, not universal security | “Reported gains still require independent, adaptive, workload-specific testing.” | [OpenAI GPT-Red](https://openai.com/index/unlocking-self-improvement-gpt-red/) |
+| “Cosmos 3 Edge replaces the entire robotics stack.” | A shared model does not remove sensing, safety, control, recovery, and hardware validation requirements | “It may consolidate model stages, subject to end-to-end control and safety validation.” | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
+| “The vendor’s #1 benchmark claim proves production superiority.” | Vendor-reported benchmark rank does not establish workload-specific robustness or hardware behavior | “Treat the reported result as a screening signal and reproduce it on target scenarios.” | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
+| “AI-credit pools are budgets.” | Pools allocate included license-funded credits; budgets cap metered charges after exhaustion | “Use both controls explicitly and define block versus overage behavior.” | [GitHub pools](https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/) |
+| “Every action was approved, so the agent was safe.” | Individually acceptable actions can combine into an unauthorized outcome | “Approval must cover actions and cumulative trajectory intent.” | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
