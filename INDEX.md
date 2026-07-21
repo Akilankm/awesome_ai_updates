@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-22 01:09 IST
+**Last refreshed:** 2026-07-22 02:11 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-22 01:09 IST](hourly/2026/07/22/01-09_IST.md) |
-| Previous hourly record | [2026-07-22 00:09 IST](hourly/2026/07/22/00-09_IST.md) |
+| Current hourly record | [2026-07-22 02:11 IST](hourly/2026/07/22/02-11_IST.md) |
+| Previous hourly record | [2026-07-22 01:09 IST](hourly/2026/07/22/01-09_IST.md) |
 | Model-routing mental model | [Task-conditioned model routing](knowledge_base/mental_models/task_conditioned_model_routing.md) |
 | Long-horizon safety mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
@@ -31,4 +31,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-22 01:09 IST | Verified null intelligence delta. No post-cutoff item changed the current architecture, terminology, meeting guidance, action priorities, or living mental models. | [Review record](hourly/2026/07/22/01-09_IST.md) |
+| 2026-07-22 02:11 IST | Verified null intelligence delta. No post-cutoff item changed the current architecture, terminology, meeting guidance, action priorities, or living mental models. | [Review record](hourly/2026/07/22/02-11_IST.md) |
