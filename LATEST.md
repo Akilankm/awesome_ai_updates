@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 00:09 IST  
+**Collected:** 2026-07-22 01:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Gemini agent-efficiency and routing update](hourly/2026/07/22/00-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/01-09_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | Promote the Gemini 3.6 Flash / 3.5 Flash-Lite / Flash Cyber portfolio and immediate developer-platform availability. | [00:09 cycle](hourly/2026/07/22/00-09_IST.md) |
-| Architecture | Add task-conditioned model routing and complete-trajectory economics as current priorities. | [Mental model](knowledge_base/mental_models/task_conditioned_model_routing.md) |
-| Evidence discipline | Treat vendor benchmark and efficiency claims as screening evidence until reproduced on internal workloads. | [00:09 cycle](hourly/2026/07/22/00-09_IST.md) |
+| Promotion | No newly published, non-duplicate item after the 00:09 IST cutoff cleared the evidence, career-value, significance, and architecture-impact thresholds. | [01:09 audit](hourly/2026/07/22/01-09_IST.md) |
+| Architecture | Retain task-conditioned model routing, complete-trajectory economics, trajectory-level safety, and quality-adjusted AI engineering as current priorities. | [Model-routing mental model](knowledge_base/mental_models/task_conditioned_model_routing.md) |
+| Evidence discipline | Record a null delta rather than add routine churn, duplicate coverage, popularity-only trends, or unsupported benchmark claims. | [01:09 audit](hourly/2026/07/22/01-09_IST.md) |
