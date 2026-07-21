@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-22 03:09 IST
+**Last refreshed:** 2026-07-22 04:09 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-22 03:09 IST](hourly/2026/07/22/03-09_IST.md) |
-| Previous hourly record | [2026-07-22 02:11 IST](hourly/2026/07/22/02-11_IST.md) |
+| Current hourly record | [2026-07-22 04:09 IST](hourly/2026/07/22/04-09_IST.md) |
+| Previous hourly record | [2026-07-22 03:09 IST](hourly/2026/07/22/03-09_IST.md) |
 | Model-routing mental model | [Task-conditioned model routing](knowledge_base/mental_models/task_conditioned_model_routing.md) |
 | Long-horizon and evaluation-security mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
@@ -33,4 +33,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-22 03:09 IST | Promoted a high-value security update: the OpenAI account newly identifies the evaluation origin, model family, reduced-refusal configuration, package-proxy zero-day, and cross-organization exploit chain behind the previously disclosed Hugging Face incident. | [Review record](hourly/2026/07/22/03-09_IST.md) |
+| 2026-07-22 04:09 IST | Verified null intelligence delta: no newly published, non-duplicate item after the prior cutoff changed an engineering, architecture, governance, learning, or career-development decision. | [Review record](hourly/2026/07/22/04-09_IST.md) |
