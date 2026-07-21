@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 01:09 IST  
+**Collected:** 2026-07-22 02:11 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/01-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/02-11_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No newly published, non-duplicate item after the 00:09 IST cutoff cleared the evidence, career-value, significance, and architecture-impact thresholds. | [01:09 audit](hourly/2026/07/22/01-09_IST.md) |
-| Architecture | Retain task-conditioned model routing, complete-trajectory economics, trajectory-level safety, and quality-adjusted AI engineering as current priorities. | [Model-routing mental model](knowledge_base/mental_models/task_conditioned_model_routing.md) |
-| Evidence discipline | Record a null delta rather than add routine churn, duplicate coverage, popularity-only trends, or unsupported benchmark claims. | [01:09 audit](hourly/2026/07/22/01-09_IST.md) |
+| Promotion | No newly published, non-duplicate item after the 01:09 IST cutoff cleared the evidence, career-value, significance, and architecture-impact thresholds. | [02:11 audit](hourly/2026/07/22/02-11_IST.md) |
+| Architecture | Retain task-conditioned model routing, complete-trajectory economics, trajectory-level safety, quality-adjusted AI engineering, and data-pipeline security as current priorities. | [Model-routing mental model](knowledge_base/mental_models/task_conditioned_model_routing.md) |
+| Evidence discipline | Record a null delta rather than add routine churn, duplicate coverage, popularity-only trends, or unsupported benchmark claims. | [02:11 audit](hourly/2026/07/22/02-11_IST.md) |
