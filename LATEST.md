@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 03:09 IST  
+**Collected:** 2026-07-22 04:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Evaluation-environment escape and cross-organization compromise](hourly/2026/07/22/03-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/04-09_IST.md)
 
 ## Must-know developments
 
@@ -39,6 +39,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | Promote the OpenAI–Hugging Face evaluation-security disclosure because it newly identifies the origin, model family, safeguard configuration, proxy zero-day, and cross-environment attack chain. | [03:09 cycle](hourly/2026/07/22/03-09_IST.md) |
-| Architecture | Add adversarial evaluation containment and safety-control-ablation governance to the current priorities. | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
-| Evidence discipline | Treat the findings as high-quality but preliminary; do not generalize beyond the reported models, evaluation conditions, and continuing investigation. | [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
+| Promotion | No new development qualified after the 03:09 IST cutoff; preserve the existing priority ranking without duplicating July 20–21 releases. | [04:09 cycle](hourly/2026/07/22/04-09_IST.md) |
+| Architecture | Keep adversarial evaluation containment, trajectory-level control, governed model routing, and quality-adjusted AI economics as the active priorities. | [Current audit](hourly/2026/07/22/04-09_IST.md) |
+| Evidence discipline | A null cycle is recorded explicitly; routine framework churn, popularity movement, generic news, funding stories, and unsupported benchmark claims remain excluded. | [Current audit](hourly/2026/07/22/04-09_IST.md) |
