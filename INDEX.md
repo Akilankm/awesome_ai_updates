@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-23 04:10 IST
+**Last refreshed:** 2026-07-23 05:10 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-23 04:10 IST](hourly/2026/07/23/04-10_IST.md) |
-| Previous hourly record | [2026-07-23 03:10 IST](hourly/2026/07/23/03-10_IST.md) |
+| Current hourly record | [2026-07-23 05:10 IST](hourly/2026/07/23/05-10_IST.md) |
+| Previous hourly record | [2026-07-23 04:10 IST](hourly/2026/07/23/04-10_IST.md) |
 | Production-agent lifecycle mental model | [Governed production-agent lifecycle](knowledge_base/mental_models/governed_production_agent_lifecycle.md) |
 | Model-routing mental model | [Task-conditioned model routing](knowledge_base/mental_models/task_conditioned_model_routing.md) |
 | Long-horizon and evaluation-security mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
@@ -33,4 +33,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-23 04:10 IST | Verified null intelligence delta; no new high-value development crossed the promotion threshold and no meeting brief, terminology radar, action board, or living knowledge-base revision was justified. | [Review record](hourly/2026/07/23/04-10_IST.md) |
+| 2026-07-23 05:10 IST | Verified null intelligence delta; no new high-value development crossed the promotion threshold and no meeting brief, terminology radar, action board, or living knowledge-base revision was justified. | [Review record](hourly/2026/07/23/05-10_IST.md) |
