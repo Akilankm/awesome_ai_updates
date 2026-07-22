@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 07:10 IST  
+**Collected:** 2026-07-22 08:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/07-10_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/08-08_IST.md)
 
 ## Must-know developments
 
@@ -39,6 +39,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new development qualified after the 06:08 IST cutoff; preserve the existing priority ranking without duplicating July 20–21 releases. | [07:10 cycle](hourly/2026/07/22/07-10_IST.md) |
-| Architecture | Keep adversarial evaluation containment, trajectory-level control, governed model routing, and quality-adjusted AI economics as the active priorities. | [Current audit](hourly/2026/07/22/07-10_IST.md) |
-| Evidence discipline | A null cycle is recorded explicitly; routine framework churn, popularity movement, generic news, funding stories, and unsupported benchmark claims remain excluded. | [Current audit](hourly/2026/07/22/07-10_IST.md) |
+| Promotion | No new development qualified after the 07:10 IST cutoff; preserve the existing priority ranking without duplicating July 20–21 releases. | [08:08 cycle](hourly/2026/07/22/08-08_IST.md) |
+| Architecture | Keep adversarial evaluation containment, trajectory-level control, governed model routing, and quality-adjusted AI economics as the active priorities. | [Current audit](hourly/2026/07/22/08-08_IST.md) |
+| Evidence discipline | A null cycle is recorded explicitly; routine framework churn, popularity movement, generic news, funding stories, and unsupported benchmark claims remain excluded. | [Current audit](hourly/2026/07/22/08-08_IST.md) |
