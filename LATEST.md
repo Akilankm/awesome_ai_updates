@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 21:08 IST  
+**Collected:** 2026-07-22 22:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/21-08_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/22/22-08_IST.md)
 
 ## Must-know developments
 
@@ -39,6 +39,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new development qualified after the 20:08 IST cutoff. The July 22 PyTorch Foundation post is a useful ecosystem recap, but it does not introduce a new framework artifact, migration requirement, benchmark protocol, security control, or deployment decision. | [21:08 cycle](hourly/2026/07/22/21-08_IST.md) |
-| Architecture | Keep adversarial evaluation containment, trajectory-level control, governed model routing, and quality-adjusted AI economics as the active priorities. | [Current audit](hourly/2026/07/22/21-08_IST.md) |
-| Evidence discipline | A null cycle is recorded explicitly; recap-only posts, event-only notices, routine framework churn, popularity movement, generic news, funding stories, and unsupported benchmark claims remain excluded. | [Current audit](hourly/2026/07/22/21-08_IST.md) |
+| Promotion | No new development qualified after the 21:08 IST cutoff. GitHub's only new July 22 changelog item was an unrelated GHES support-bundle upload retirement notice; no new frontier-model, AI-engineering, agent, framework, benchmark, infrastructure, safety, or policy artifact crossed the threshold. | [22:08 cycle](hourly/2026/07/22/22-08_IST.md) |
+| Architecture | Keep adversarial evaluation containment, trajectory-level control, governed model routing, and quality-adjusted AI economics as the active priorities. | [Current audit](hourly/2026/07/22/22-08_IST.md) |
+| Evidence discipline | A null cycle is recorded explicitly; unrelated platform notices, recap-only posts, event-only notices, routine framework churn, popularity movement, generic news, funding stories, and unsupported benchmark claims remain excluded. | [Current audit](hourly/2026/07/22/22-08_IST.md) |
