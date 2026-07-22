@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-22 22:08 IST
+**Last refreshed:** 2026-07-22 23:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,9 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-22 22:08 IST](hourly/2026/07/22/22-08_IST.md) |
-| Previous hourly record | [2026-07-22 21:08 IST](hourly/2026/07/22/21-08_IST.md) |
+| Current hourly record | [2026-07-22 23:08 IST](hourly/2026/07/22/23-08_IST.md) |
+| Previous hourly record | [2026-07-22 22:08 IST](hourly/2026/07/22/22-08_IST.md) |
+| Production-agent lifecycle mental model | [Governed production-agent lifecycle](knowledge_base/mental_models/governed_production_agent_lifecycle.md) |
 | Model-routing mental model | [Task-conditioned model routing](knowledge_base/mental_models/task_conditioned_model_routing.md) |
 | Long-horizon and evaluation-security mental model | [Adaptive adversarial evaluation](knowledge_base/mental_models/adaptive_adversarial_evaluation.md) |
 | Repository-scoped AI governance mental model | [Repository-level AI engineering observability](knowledge_base/mental_models/repository_level_ai_engineering_observability.md) |
@@ -20,17 +21,16 @@
 
 | Theme | Status | Why it is strategically important | Evidence |
 |---|---|---|---|
-| Adversarial evaluation containment | Critical and accelerating | Advanced-model evaluation can become the origin of a real cross-environment incident when a model discovers escape paths through allowed infrastructure | [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · [Hugging Face](https://huggingface.co/blog/security-incident-july-2026) |
-| Safety-control-ablation governance | Emerging critical control | Disabling production classifiers for maximal-capability testing changes the complete system risk state and requires compensating infrastructure controls | [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
-| Task-conditioned model routing | Accelerating | Coordinated workhorse and throughput model releases make routing, fallback, route-level evaluation, and complete-task economics more valuable than one-model standardization | [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) |
+| Governed production-agent lifecycle | New critical operating model | Production agents are being packaged as job-scoped, policy-bounded services with simulations, graders, escalation, production feedback, proposed updates, comparative testing, approval, and controlled rollout | [OpenAI Presence](https://openai.com/index/introducing-openai-presence/) |
+| Quality-adjusted AI adoption maturity | New operational analytics layer | Adoption cohorts expose workflow depth beyond active seats, but must be joined with quality, rework, incidents, accepted outcomes, workload mix, and cost | [GitHub impact dashboard](https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard/) |
+| Adversarial evaluation containment | Critical and accelerating | Advanced-model evaluation can become the origin of a real cross-environment incident | [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) · [Hugging Face](https://huggingface.co/blog/security-incident-july-2026) |
+| Safety-control-ablation governance | Emerging critical control | Disabling production classifiers changes the complete system risk state | [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
+| Task-conditioned model routing | Accelerating | Workhorse, throughput, and specialist models require routing, fallback, and route-level evidence | [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) |
 | Trajectory-level agent control | Accelerating | Long-running agents can compose benign-looking actions into unauthorized outcomes | [OpenAI](https://openai.com/index/safety-alignment-long-horizon-models/) |
-| Edge world-action models | Emerging | Compact models can unify scene understanding, future-state simulation, and action generation near sensors and actuators | [Cosmos 3 Edge](https://huggingface.co/blog/nvidia/cosmos3edge) |
-| Outcome-linked AI credit governance | Accelerating | Enterprise controls separate entitlement pools, metered budgets, block/overage behavior, and visible consumption | [GitHub pools](https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/) |
-| Quality-adjusted AI engineering governance | Accelerating | Deterministic analysis, AI-assisted findings, gates, remediation, and economics form an enforceable loop | [GitHub Code Quality](https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available/) |
-| AI data-pipeline attack-surface engineering | Accelerating | Loaders, workers, credentials, clusters, artifact publication, and dependency mediators are first-class security boundaries | [Hugging Face](https://huggingface.co/blog/security-incident-july-2026) · [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/) |
+| Outcome-linked AI economics | Accelerating | Credits, model routes, quality gates, accepted outcomes, and total cost must be joined | [GitHub pools](https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui/) |
 
 ## Latest cycle status
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-22 22:08 IST | Verified null intelligence delta: no newly published, non-duplicate item after the prior cutoff changed an engineering, architecture, governance, learning, proposal, or career-development decision. GitHub's only new July 22 changelog item was unrelated to AI, and no other primary-source surface produced a qualifying artifact. | [Review record](hourly/2026/07/22/22-08_IST.md) |
+| 2026-07-22 23:08 IST | Promoted OpenAI Presence and GitHub's Copilot usage metrics impact dashboard; added governed production-agent lifecycle and quality-adjusted adoption maturity as active themes. | [Review record](hourly/2026/07/22/23-08_IST.md) |
