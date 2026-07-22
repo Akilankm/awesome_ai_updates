@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-22 23:08 IST  
+**Collected:** 2026-07-23 00:10 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Production-agent lifecycle and adoption-impact intelligence](hourly/2026/07/22/23-08_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/23/00-10_IST.md)
 
 ## Must-know developments
 
@@ -36,6 +36,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | Promote OpenAI Presence and GitHub's Copilot impact dashboard. | [23:08 cycle](hourly/2026/07/22/23-08_IST.md) |
-| Architecture | Add governed production-agent lifecycle and quality-adjusted adoption maturity to active priorities. | [Current audit](hourly/2026/07/22/23-08_IST.md) |
-| Evidence discipline | Treat vendor metrics as operational signals; prohibit causal productivity claims without controlled evidence. | [Current audit](hourly/2026/07/22/23-08_IST.md) |
+| Promotion | No new high-value development crossed the threshold after the 2026-07-22 23:08 IST cutoff. | [00:10 cycle](hourly/2026/07/23/00-10_IST.md) |
+| Architecture | Retain governed production-agent lifecycle, adversarial evaluation containment, trajectory-level control, task-conditioned routing, quality-adjusted AI engineering, and outcome-linked AI economics. | [Current audit](hourly/2026/07/23/00-10_IST.md) |
+| Evidence discipline | Record the null delta rather than adding recaps, policy positioning, popularity movement, funding-only stories, or unsupported benchmark claims. | [Current audit](hourly/2026/07/23/00-10_IST.md) |
