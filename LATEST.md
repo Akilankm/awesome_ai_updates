@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-24 04:09 IST  
+**Collected:** 2026-07-24 05:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Stateless MCP interoperability](hourly/2026/07/24/04-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/05-08_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | Promote the stateless MCP specification transition and GitHub’s production implementation as a material agent-infrastructure signal. | [04:09 cycle](hourly/2026/07/24/04-09_IST.md) |
-| Architecture | Add explicit protocol/application-state separation, method-aware gateway policy, versioned conformance, authorization testing, and trace propagation. | [Stateless MCP mental model](knowledge_base/mental_models/stateless_mcp_interoperability.md) |
-| Knowledge-base discipline | Treat conformance as an interoperability floor, not proof of security, reliability, scale, or business correctness. | [Evaluation contract](knowledge_base/mental_models/stateless_mcp_interoperability.md#evaluation-contract) |
+| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [05:08 cycle](hourly/2026/07/24/05-08_IST.md) |
+| Exclusion | GitHub’s Copilot cloud agent for Linear GA was retained as ecosystem awareness only; it is an integration release, not a new architecture, evaluation, governance, benchmark, or infrastructure primitive. | [GitHub changelog](https://github.blog/changelog/) |
+| Knowledge-base discipline | Preserve the prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/05-08_IST.md) |
