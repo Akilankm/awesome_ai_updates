@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-24 02:07 IST
+**Last refreshed:** 2026-07-24 03:11 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-24 02:07 IST](hourly/2026/07/24/02-07_IST.md) |
-| Previous hourly record | [2026-07-24 01:11 IST](hourly/2026/07/24/01-11_IST.md) |
+| Current hourly record | [2026-07-24 03:11 IST](hourly/2026/07/24/03-11_IST.md) |
+| Previous hourly record | [2026-07-24 02:07 IST](hourly/2026/07/24/02-07_IST.md) |
 | Confidence-gated automation mental model | [Confidence-gated agent automation](knowledge_base/mental_models/confidence_gated_agent_automation.md) |
 | Hardware-portability mental model | [Hardware-heterogeneous kernel authoring](knowledge_base/mental_models/hardware_heterogeneous_kernel_authoring.md) |
 | Production-agent lifecycle mental model | [Governed production-agent lifecycle](knowledge_base/mental_models/governed_production_agent_lifecycle.md) |
@@ -35,4 +35,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-24 02:07 IST | Promoted GitHub Issues confidence-gated agent automation controls; updated architecture, terminology, action, meeting, and knowledge-base guidance. | [Review record](hourly/2026/07/24/02-07_IST.md) |
+| 2026-07-24 03:11 IST | Verified null intelligence delta; retained existing priorities and intentionally left meeting, terminology, action, and living knowledge-base content unchanged. | [Review record](hourly/2026/07/24/03-11_IST.md) |
