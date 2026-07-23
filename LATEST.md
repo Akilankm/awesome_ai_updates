@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-24 02:07 IST  
+**Collected:** 2026-07-24 03:11 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Confidence-gated agent automation controls](hourly/2026/07/24/02-07_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/03-11_IST.md)
 
 ## Must-know developments
 
@@ -36,6 +36,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | Promote GitHub Issues agent automation controls as a high-value operational-governance signal. | [02:07 cycle](hourly/2026/07/24/02-07_IST.md) |
-| Architecture | Add confidence-gated action routing and complete decision envelopes to the active agent-control architecture. | [Mental model](knowledge_base/mental_models/confidence_gated_agent_automation.md) |
-| Security discipline | Treat approval UX as separate from authorization, scoped identity, and server-side policy enforcement. | [GitHub](https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview) |
+| Promotion | No newly published, non-duplicate development crossed the promotion threshold after the 02:07 IST cutoff. | [03:11 cycle](hourly/2026/07/24/03-11_IST.md) |
+| Architecture | Retain the current architecture guidance; no new evidence changed identity, policy, routing, evaluation, observability, compiler, deployment, or rollback decisions. | [03:11 audit](hourly/2026/07/24/03-11_IST.md) |
+| Knowledge-base discipline | Do not add recap-only, stale, funding-only, or technically non-actionable material. | [Exclusion log](hourly/2026/07/24/03-11_IST.md#exclusion-log) |
