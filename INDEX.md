@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-24 03:11 IST
+**Last refreshed:** 2026-07-24 04:09 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,9 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-24 03:11 IST](hourly/2026/07/24/03-11_IST.md) |
-| Previous hourly record | [2026-07-24 02:07 IST](hourly/2026/07/24/02-07_IST.md) |
+| Current hourly record | [2026-07-24 04:09 IST](hourly/2026/07/24/04-09_IST.md) |
+| Previous hourly record | [2026-07-24 03:11 IST](hourly/2026/07/24/03-11_IST.md) |
+| MCP interoperability mental model | [Stateless MCP interoperability](knowledge_base/mental_models/stateless_mcp_interoperability.md) |
 | Confidence-gated automation mental model | [Confidence-gated agent automation](knowledge_base/mental_models/confidence_gated_agent_automation.md) |
 | Hardware-portability mental model | [Hardware-heterogeneous kernel authoring](knowledge_base/mental_models/hardware_heterogeneous_kernel_authoring.md) |
 | Production-agent lifecycle mental model | [Governed production-agent lifecycle](knowledge_base/mental_models/governed_production_agent_lifecycle.md) |
@@ -23,6 +24,7 @@
 
 | Theme | Status | Why it is strategically important | Evidence |
 |---|---|---|---|
+| Stateless MCP interoperability | New and infrastructure-critical | Protocol sessions and initialization are being replaced by stateless requests, explicit state handles, method-aware routing, formal conformance, and hardened authorization | [GitHub](https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification) · [MCP](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/) · [Conformance](https://github.com/modelcontextprotocol/conformance) |
 | Confidence-gated agent automation | New and operational | Action-level confidence, rationale, thresholds, and review expose a practical autonomy router, while the explicit security warning prevents approval UX from being confused with authorization | [GitHub](https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview) |
 | Hardware-heterogeneous kernel authoring | New and accelerating | High-level kernel intent can lower through different accelerator backends under conformance and performance contracts | [PyTorch](https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring/) · [Helion](https://github.com/pytorch/helion) |
 | Governed production-agent lifecycle | Critical operating model | Production agents are being packaged as job-scoped, policy-bounded services with evaluation, escalation, controlled change, and rollback | [OpenAI Presence](https://openai.com/index/introducing-openai-presence/) |
@@ -35,4 +37,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-24 03:11 IST | Verified null intelligence delta; retained existing priorities and intentionally left meeting, terminology, action, and living knowledge-base content unchanged. | [Review record](hourly/2026/07/24/03-11_IST.md) |
+| 2026-07-24 04:09 IST | Promoted stateless MCP interoperability, versioned conformance, method-aware gateways, explicit state contracts, and authorization migration as material architecture signals. | [Review record](hourly/2026/07/24/04-09_IST.md) |
