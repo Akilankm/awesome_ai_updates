@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-23 12:15 IST  
+**Collected:** 2026-07-23 13:09 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/23/12-15_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/23/13-09_IST.md)
 
 ## Must-know developments
 
@@ -36,6 +36,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new high-value development crossed the threshold after the 2026-07-23 11:08 IST cutoff. | [12:15 cycle](hourly/2026/07/23/12-15_IST.md) |
-| Architecture | Retain governed production-agent lifecycle, adversarial evaluation containment, trajectory-level control, task-conditioned routing, quality-adjusted AI engineering, and outcome-linked AI economics. | [Current audit](hourly/2026/07/23/12-15_IST.md) |
-| Evidence discipline | Record the null delta rather than adding recaps, stale papers, conference notices, policy positioning, popularity movement, funding-only stories, or unsupported benchmark claims. | [Current audit](hourly/2026/07/23/12-15_IST.md) |
+| Promotion | No new high-value development crossed the threshold after the 2026-07-23 12:15 IST cutoff. | [13:09 cycle](hourly/2026/07/23/13-09_IST.md) |
+| Architecture | Retain governed production-agent lifecycle, adversarial evaluation containment, trajectory-level control, task-conditioned routing, quality-adjusted AI engineering, and outcome-linked AI economics. | [Current audit](hourly/2026/07/23/13-09_IST.md) |
+| Evidence discipline | Record the null delta rather than adding recaps, stale papers, conference notices, policy positioning, popularity movement, funding-only stories, or unsupported benchmark claims. | [Current audit](hourly/2026/07/23/13-09_IST.md) |
