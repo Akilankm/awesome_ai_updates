@@ -1,6 +1,6 @@
 # AI Intelligence Index
 
-**Last refreshed:** 2026-07-25 01:08 IST
+**Last refreshed:** 2026-07-25 02:08 IST
 
 | Purpose | Current resource |
 |---|---|
@@ -8,8 +8,8 @@
 | Meeting-ready narrative | [MEETING_BRIEF.md](MEETING_BRIEF.md) |
 | Terminology and narrative momentum | [TERMINOLOGY_RADAR.md](TERMINOLOGY_RADAR.md) |
 | Learning, POC, and adoption decisions | [ACTION_BOARD.md](ACTION_BOARD.md) |
-| Current hourly record | [2026-07-25 01:08 IST](hourly/2026/07/25/01-08_IST.md) |
-| Previous hourly record | [2026-07-25 00:11 IST](hourly/2026/07/25/00-11_IST.md) |
+| Current hourly record | [2026-07-25 02:08 IST](hourly/2026/07/25/02-08_IST.md) |
+| Previous hourly record | [2026-07-25 01:08 IST](hourly/2026/07/25/01-08_IST.md) |
 | MCP interoperability mental model | [Stateless MCP interoperability](knowledge_base/mental_models/stateless_mcp_interoperability.md) |
 | Confidence-gated automation mental model | [Confidence-gated agent automation](knowledge_base/mental_models/confidence_gated_agent_automation.md) |
 | Hardware-portability mental model | [Hardware-heterogeneous kernel authoring](knowledge_base/mental_models/hardware_heterogeneous_kernel_authoring.md) |
@@ -37,4 +37,4 @@
 
 | Collection time | Outcome | Audit |
 |---|---|---|
-| 2026-07-25 01:08 IST | Verified null intelligence delta. No post-cutoff model, framework, agent-control, benchmark, infrastructure, safety, policy, or terminology artifact changed a technical or career decision. Existing promoted signals and workstreams remain active. | [Review record](hourly/2026/07/25/01-08_IST.md) |
+| 2026-07-25 02:08 IST | Verified null intelligence delta. No post-cutoff model, framework, agent-control, benchmark, infrastructure, safety, policy, or terminology artifact changed a technical or career decision. Existing promoted signals and workstreams remain active. | [Review record](hourly/2026/07/25/02-08_IST.md) |
