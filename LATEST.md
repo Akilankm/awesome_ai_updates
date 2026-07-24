@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-24 23:11 IST  
+**Collected:** 2026-07-25 00:11 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/23-11_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/25/00-11_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [23:11 cycle](hourly/2026/07/24/23-11_IST.md) |
-| Exclusion | No post-22:08 IST primary-source release qualified. Resurfaced releases, distribution-only integrations, consumer launches, generic commentary, funding, conference promotion, and uncorroborated trend claims were not elevated. | [Fresh-source audit](hourly/2026/07/24/23-11_IST.md) |
-| Knowledge-base discipline | Preserve prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/23-11_IST.md) |
+| Promotion | No new promotion. The only fresh candidate was Claude Opus 5 availability in GitHub Copilot; this was a distribution integration rather than a new model release, benchmark protocol, engineering control, or architecture-changing capability. | [00:11 cycle](hourly/2026/07/25/00-11_IST.md) |
+| Exclusion | GitHub-reported early performance characterization was retained only as a screening signal. No independent Anthropic launch artifact or benchmark package was visible in the reviewed newsroom, so no model-level conclusions were promoted. | [Fresh-source audit](hourly/2026/07/25/00-11_IST.md) |
+| Knowledge-base discipline | Preserve prior promoted signals and evaluate Claude Opus 5 only as a candidate route inside the existing governed model-routing framework. | [Null-delta audit](hourly/2026/07/25/00-11_IST.md) |
