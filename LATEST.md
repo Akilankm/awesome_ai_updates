@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-24 05:08 IST  
+**Collected:** 2026-07-24 06:13 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/05-08_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/06-13_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [05:08 cycle](hourly/2026/07/24/05-08_IST.md) |
-| Exclusion | GitHub’s Copilot cloud agent for Linear GA was retained as ecosystem awareness only; it is an integration release, not a new architecture, evaluation, governance, benchmark, or infrastructure primitive. | [GitHub changelog](https://github.blog/changelog/) |
-| Knowledge-base discipline | Preserve the prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/05-08_IST.md) |
+| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [06:13 cycle](hourly/2026/07/24/06-13_IST.md) |
+| Exclusion | No July 24 primary-source release qualified. Product distribution updates, community posts, and recap material were not elevated without a new architecture, benchmark, governance control, migration requirement, or infrastructure primitive. | [Fresh-source audit](hourly/2026/07/24/06-13_IST.md) |
+| Knowledge-base discipline | Preserve prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/06-13_IST.md) |
