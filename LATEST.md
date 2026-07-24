@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-24 12:12 IST  
+**Collected:** 2026-07-24 13:14 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/12-12_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/24/13-14_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [12:12 cycle](hourly/2026/07/24/12-12_IST.md) |
-| Exclusion | No post-11:10 IST primary-source release qualified. Product-domain launches, distribution-only integrations, recap material, search resurfacing, generic commentary, and uncorroborated trend claims were not elevated. | [Fresh-source audit](hourly/2026/07/24/12-12_IST.md) |
-| Knowledge-base discipline | Preserve prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/12-12_IST.md) |
+| Promotion | No new promotion. The post-cutoff scan found no non-duplicate development that changed an engineering, architecture, governance, safety, learning, proposal, or career decision. | [13:14 cycle](hourly/2026/07/24/13-14_IST.md) |
+| Exclusion | No post-12:12 IST primary-source release qualified. Distribution-only integrations, product-domain launches, unchanged framework release pages, recap material, search resurfacing, generic commentary, and uncorroborated trend claims were not elevated. | [Fresh-source audit](hourly/2026/07/24/13-14_IST.md) |
+| Knowledge-base discipline | Preserve prior promoted signals and avoid adding lower-value content merely to fill an hourly cycle. | [Null-delta audit](hourly/2026/07/24/13-14_IST.md) |
