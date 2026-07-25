@@ -1,8 +1,8 @@
 # Latest AI Intelligence
 
-**Collected:** 2026-07-25 12:09 IST  
+**Collected:** 2026-07-25 13:08 IST  
 **Scope:** High-value verified signals only  
-**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/25/12-09_IST.md)
+**Latest cycle:** [Verified null intelligence delta](hourly/2026/07/25/13-08_IST.md)
 
 ## Must-know developments
 
@@ -38,6 +38,6 @@
 
 | Area | Decision | Audit record |
 |---|---|---|
-| Promotion | No new promotion. No post-11:09 IST model, framework, agent-control, benchmark, infrastructure, safety, policy, or terminology artifact changed a technical or career decision. | [12:09 cycle](hourly/2026/07/25/12-09_IST.md) |
-| Exclusion | Downstream model listings, policy positioning without a concrete control, recap material, community-only claims, and uncorroborated leaderboard movement were not promoted. | [Fresh-source audit](hourly/2026/07/25/12-09_IST.md) |
-| Knowledge-base discipline | Preserve the existing promoted signals and active workstreams rather than manufacture novelty. | [Null-delta audit](hourly/2026/07/25/12-09_IST.md) |
+| Promotion | No new promotion. No post-12:09 IST model, framework, agent-control, benchmark, infrastructure, safety, policy, or terminology artifact changed a technical or career decision. | [13:08 cycle](hourly/2026/07/25/13-08_IST.md) |
+| Exclusion | Downstream model listings, policy positioning without a concrete control, recap material, community-only claims, and uncorroborated leaderboard movement were not promoted. | [Fresh-source audit](hourly/2026/07/25/13-08_IST.md) |
+| Knowledge-base discipline | Preserve the existing promoted signals and active workstreams rather than manufacture novelty. | [Null-delta audit](hourly/2026/07/25/13-08_IST.md) |
